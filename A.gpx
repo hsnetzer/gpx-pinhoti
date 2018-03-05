@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="32.97251998" minlon="-86.34858856" maxlat="34.89290700" maxlon="-84.52739657"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T20:00:03.522Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T20:03:44.112Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="33.01573595" lon="-86.32640578">
 </active_point>
 </extensions>
@@ -107,6 +107,40 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:51:27.299Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PineMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.91334556" lon="-85.50276384">
+<time>2018-03-05T20:02:07.957Z</time>
+<name>Pinhoti~Ladiga~S</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~Ladiga~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.91804379" lon="-85.49651027">
+<time>2018-03-05T20:02:36.974Z</time>
+<name>Pinhoti~Ladiga~N</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~Ladiga~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.13891561" lon="-86.19856775">
+<time>2018-03-05T20:03:30.313Z</time>
+<name>Pinhoti~Trammel~N</name>
+<sym>Trail Head</sym>
+<type>Trail Head</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T20:03:44.112Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~Trammel~N</label_text>
 </label>
 </extensions>
 </wpt>
