@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="34.04641544" minlon="-85.38065999" maxlat="34.05327788" maxlon="-85.34878621"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:31:24.806Z</time>
+</extensions>
+</metadata>
+<wpt lat="34.04725066" lon="-85.38014885">
+<time>2018-04-12T22:08:15.474Z</time>
+<name>HematiteBr</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HematiteBr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.05100737" lon="-85.35818827">
+<time>2018-04-12T22:09:43.749Z</time>
+<name>GA100~SantaClaus</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GA100~SantaClaus</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.05327538" lon="-85.36076050">
+<time>2018-04-12T22:09:27.322Z</time>
+<name>Esom~GA100</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Esom~GA100</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.05179053" lon="-85.34878835">
+<time>2019-02-25T15:11:55.153Z</time>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SantaClausRd</label_text>
+</label>
+</extensions>
+</wpt>
+<trk>
+<name>PINHOTI</name>
+<desc>road,n</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:31:24.806Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti Trail</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="34.04780185" lon="-85.38065999">
+<ele>260.000</ele>
+</trkpt>
+<trkpt lat="34.04769075" lon="-85.38058656">
+<ele>259.000</ele>
+</trkpt>
+<trkpt lat="34.04725045" lon="-85.38015028">
+<ele>254.000</ele>
+</trkpt>
+<trkpt lat="34.04706320" lon="-85.37994375">
+<ele>254.000</ele>
+</trkpt>
+<trkpt lat="34.04701391" lon="-85.37972951">
+<ele>255.000</ele>
+</trkpt>
+<trkpt lat="34.04719463" lon="-85.37921109">
+<ele>256.000</ele>
+</trkpt>
+<trkpt lat="34.04735891" lon="-85.37801902">
+<ele>256.000</ele>
+</trkpt>
+<trkpt lat="34.04775647" lon="-85.37616427">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="34.04800951" lon="-85.37500690">
+<ele>257.000</ele>
+</trkpt>
+<trkpt lat="34.04809493" lon="-85.37475762">
+<ele>251.000</ele>
+</trkpt>
+<trkpt lat="34.04817380" lon="-85.37376805">
+<ele>253.000</ele>
+</trkpt>
+<trkpt lat="34.04749034" lon="-85.36958707">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.04723075" lon="-85.36816106">
+<ele>239.000</ele>
+</trkpt>
+<trkpt lat="34.04706320" lon="-85.36776762">
+<ele>238.000</ele>
+</trkpt>
+<trkpt lat="34.04696790" lon="-85.36722975">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.04701718" lon="-85.36717133">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.04701391" lon="-85.36703881">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.04761188" lon="-85.36565177">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.04771045" lon="-85.36493101">
+<ele>243.000</ele>
+</trkpt>
+<trkpt lat="34.04761515" lon="-85.36428016">
+<ele>243.000</ele>
+</trkpt>
+<trkpt lat="34.04727677" lon="-85.36308020">
+<ele>237.000</ele>
+</trkpt>
+<trkpt lat="34.04654033" lon="-85.36266337">
+<ele>225.000</ele>
+</trkpt>
+<trkpt lat="34.04646146" lon="-85.36244117">
+<ele>228.000</ele>
+</trkpt>
+<trkpt lat="34.04645492" lon="-85.36235156">
+<ele>228.000</ele>
+</trkpt>
+<trkpt lat="34.04641544" lon="-85.36226196">
+<ele>228.000</ele>
+</trkpt>
+<trkpt lat="34.04686010" lon="-85.36202358">
+<ele>233.000</ele>
+</trkpt>
+<trkpt lat="34.04691501" lon="-85.36192501">
+<ele>239.000</ele>
+</trkpt>
+<trkpt lat="34.04794397" lon="-85.36053001">
+<ele>246.000</ele>
+</trkpt>
+<trkpt lat="34.04903898" lon="-85.36017998">
+<ele>233.000</ele>
+</trkpt>
+<trkpt lat="34.04982604" lon="-85.36020999">
+<ele>237.000</ele>
+</trkpt>
+<trkpt lat="34.05010298" lon="-85.36019096">
+<ele>235.000</ele>
+</trkpt>
+<trkpt lat="34.05042602" lon="-85.36023899">
+<ele>234.000</ele>
+</trkpt>
+<trkpt lat="34.05218496" lon="-85.36086202">
+<ele>226.000</ele>
+</trkpt>
+<trkpt lat="34.05244497" lon="-85.36090904">
+<ele>225.000</ele>
+</trkpt>
+<trkpt lat="34.05265602" lon="-85.36093997">
+<ele>221.000</ele>
+</trkpt>
+<trkpt lat="34.05315701" lon="-85.36087199">
+<ele>217.000</ele>
+</trkpt>
+<trkpt lat="34.05324996" lon="-85.36079697">
+<ele>218.000</ele>
+</trkpt>
+<trkpt lat="34.05327788" lon="-85.36076395">
+<ele>218.000</ele>
+</trkpt>
+<trkpt lat="34.05267773" lon="-85.36020320">
+<ele>229.000</ele>
+</trkpt>
+<trkpt lat="34.05168322" lon="-85.35890585">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="34.05100638" lon="-85.35819230">
+<ele>239.000</ele>
+</trkpt>
+<trkpt lat="34.05117947" lon="-85.35763406">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="34.05113563" lon="-85.35590856">
+<ele>263.000</ele>
+</trkpt>
+<trkpt lat="34.05147954" lon="-85.35325536">
+<ele>267.000</ele>
+</trkpt>
+<trkpt lat="34.05126706" lon="-85.34994970">
+<ele>266.000</ele>
+</trkpt>
+<trkpt lat="34.05152338" lon="-85.34917488">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="34.05177793" lon="-85.34878621">
+<ele>274.000</ele>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>

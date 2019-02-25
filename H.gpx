@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="34.37915554" minlon="-85.37251756" maxlat="34.38891610" maxlon="-85.36493284"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:32:15.428Z</time>
+</extensions>
+</metadata>
+<wpt lat="34.38891305" lon="-85.36493284">
+<time>2019-02-25T15:17:52.497Z</time>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GA100</label_text>
+</label>
+</extensions>
+</wpt>
+<trk>
+<name>PINHOTI</name>
+<desc>bad,n</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:32:15.428Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti Trail</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="34.37915554" lon="-85.37251756">
+<ele>200.000</ele>
+</trkpt>
+<trkpt lat="34.37915554" lon="-85.37177844">
+<ele>200.000</ele>
+</trkpt>
+<trkpt lat="34.37933081" lon="-85.37096280">
+<ele>197.000</ele>
+</trkpt>
+<trkpt lat="34.37976885" lon="-85.37032560">
+<ele>202.000</ele>
+</trkpt>
+<trkpt lat="34.37998795" lon="-85.36986678">
+<ele>201.000</ele>
+</trkpt>
+<trkpt lat="34.38011938" lon="-85.36920411">
+<ele>201.000</ele>
+</trkpt>
+<trkpt lat="34.38044795" lon="-85.36889825">
+<ele>202.000</ele>
+</trkpt>
+<trkpt lat="34.38092982" lon="-85.36889825">
+<ele>204.000</ele>
+</trkpt>
+<trkpt lat="34.38123652" lon="-85.36892373">
+<ele>206.000</ele>
+</trkpt>
+<trkpt lat="34.38158697" lon="-85.36894921">
+<ele>206.000</ele>
+</trkpt>
+<trkpt lat="34.38209080" lon="-85.36894921">
+<ele>203.000</ele>
+</trkpt>
+<trkpt lat="34.38268214" lon="-85.36892373">
+<ele>206.000</ele>
+</trkpt>
+<trkpt lat="34.38314214" lon="-85.36871980">
+<ele>206.000</ele>
+</trkpt>
+<trkpt lat="34.38349267" lon="-85.36846491">
+<ele>206.000</ele>
+</trkpt>
+<trkpt lat="34.38386500" lon="-85.36810809">
+<ele>208.000</ele>
+</trkpt>
+<trkpt lat="34.38428124" lon="-85.36767483">
+<ele>210.000</ele>
+</trkpt>
+<trkpt lat="34.38454410" lon="-85.36741993">
+<ele>210.000</ele>
+</trkpt>
+<trkpt lat="34.38482883" lon="-85.36719052">
+<ele>210.000</ele>
+</trkpt>
+<trkpt lat="34.38531071" lon="-85.36719052">
+<ele>207.000</ele>
+</trkpt>
+<trkpt lat="34.38590214" lon="-85.36724148">
+<ele>209.000</ele>
+</trkpt>
+<trkpt lat="34.38614312" lon="-85.36724148">
+<ele>209.000</ele>
+</trkpt>
+<trkpt lat="34.38634026" lon="-85.36724148">
+<ele>208.000</ele>
+</trkpt>
+<trkpt lat="34.38686597" lon="-85.36726696">
+<ele>209.000</ele>
+</trkpt>
+<trkpt lat="34.38719454" lon="-85.36726696">
+<ele>210.000</ele>
+</trkpt>
+<trkpt lat="34.38750115" lon="-85.36724148">
+<ele>215.000</ele>
+</trkpt>
+<trkpt lat="34.38776401" lon="-85.36713956">
+<ele>215.000</ele>
+</trkpt>
+<trkpt lat="34.38796115" lon="-85.36701215">
+<ele>215.000</ele>
+</trkpt>
+<trkpt lat="34.38815829" lon="-85.36685918">
+<ele>215.000</ele>
+</trkpt>
+<trkpt lat="34.38837740" lon="-85.36657881">
+<ele>214.000</ele>
+</trkpt>
+<trkpt lat="34.38864025" lon="-85.36634940">
+<ele>215.000</ele>
+</trkpt>
+<trkpt lat="34.38874972" lon="-85.36606902">
+<ele>217.000</ele>
+</trkpt>
+<trkpt lat="34.38890311" lon="-85.36578865">
+<ele>217.000</ele>
+</trkpt>
+<trkpt lat="34.38890311" lon="-85.36558480">
+<ele>217.000</ele>
+</trkpt>
+<trkpt lat="34.38891610" lon="-85.36494091">
+<ele>224.000</ele>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>
