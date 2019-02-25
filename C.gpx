@@ -3,26 +3,29 @@
 <metadata>
 <bounds minlat="33.07949376" minlon="-86.24445702" maxlat="33.13891561" maxlon="-86.19254814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:36:19.256Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T19:21:44.160Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.13891561" lon="-86.19856775">
+<ele>291.000</ele>
 <time>2018-03-05T20:03:30.313Z</time>
 <name>TrammelMotorwayN</name>
 <sym>Trail Head</sym>
 <type>Trail Head</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:02:04.410Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T19:21:41.929Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TrammelMotorwayN</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.09315091" lon="-86.21310386">
+<ele>229.000</ele>
 <time>2019-02-25T15:09:02.302Z</time>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T19:21:44.160Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US280</label_text>
 </label>
@@ -915,8 +918,12 @@
 <trkpt lat="33.10427159" lon="-86.19284729">
 <ele>241.292</ele>
 </trkpt>
-<trkpt lat="33.10441274" lon="-86.19254814"/>
-<trkpt lat="33.10450586" lon="-86.19272190"/>
+<trkpt lat="33.10441274" lon="-86.19254814">
+<ele>242.000</ele>
+</trkpt>
+<trkpt lat="33.10450586" lon="-86.19272190">
+<ele>239.000</ele>
+</trkpt>
 <trkpt lat="33.10459245" lon="-86.19291293">
 <ele>241.520</ele>
 </trkpt>

@@ -3,158 +3,157 @@
 <metadata>
 <bounds minlat="34.38768027" minlon="-85.36412241" maxlat="34.74052315" maxlon="-85.01581972"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T16:08:17.090Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T23:01:27.314Z</time>
 </extensions>
 </metadata>
-<wpt lat="34.62017171" lon="-85.06916860">
-<time>2018-04-18T16:56:09.858Z</time>
-<name>Pinhoti~HorseAlt~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~HorseAlt~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.62672819" lon="-85.09461740">
-<time>2018-04-18T16:55:24.647Z</time>
-<name>Pinhoti~FS208</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~FS208</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.61292283" lon="-85.09007910">
-<time>2018-04-18T16:55:09.650Z</time>
-<name>Pinhoti~KeownFalls~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~KeownFalls~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.61311354" lon="-85.09468446">
-<time>2018-04-18T16:54:48.117Z</time>
-<name>Pinhoti~KeownFalls~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~KeownFalls~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.62309303" lon="-85.09825448">
-<time>2018-04-18T16:49:25.543Z</time>
-<name>Pinhoti~JohnsMtn~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-18T16:54:31.740Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~JohnsMtn~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.61333529" lon="-85.09491513">
-<time>2018-04-18T16:49:02.062Z</time>
-<name>Pinhoti~Johns~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~Johns~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.58967288" lon="-85.12426922">
-<time>2018-04-18T16:46:24.996Z</time>
-<name>Pinhoti~FS26</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-18T16:46:34.956Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~FS26</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.43027002" lon="-85.32864282">
-<time>2018-04-18T16:44:29.846Z</time>
-<name>Pinhoti~MarbleMine</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~MarbleMine</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.42389907" lon="-85.33338865">
-<time>2018-04-18T16:42:28.044Z</time>
-<name>Pinhoti~JenkinsGap</name>
-<desc>Jenkins Gap Trail joins Pinhoti Trail in James H. Floyd SP.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Pinhoti~JenkinsGap</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.42089400" lon="-85.33489203">
-<time>2018-04-18T16:34:25.827Z</time>
-<name>JenkinsGap</name>
-<desc>Sloppy Floyd Lake Road.</desc>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>JenkinsGap</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.66381236" lon="-85.05988103">
-<time>2018-04-12T22:11:42.529Z</time>
-<name>GA136</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GA136</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="34.47582939" lon="-85.29292744">
+<ele>307.700</ele>
 <time>2018-04-12T22:11:23.637Z</time>
 <name>US27</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US27</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="34.43027002" lon="-85.32864282">
+<ele>420.300</ele>
+<time>2018-04-18T16:44:29.846Z</time>
+<name>Pinhoti~MarbleMine</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~MarbleMine</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.61311354" lon="-85.09468446">
+<ele>427.800</ele>
+<time>2018-04-18T16:54:48.117Z</time>
+<name>Pinhoti~KeownFalls~S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~KeownFalls~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.61292283" lon="-85.09007910">
+<ele>314.600</ele>
+<time>2018-04-18T16:55:09.650Z</time>
+<name>Pinhoti~KeownFalls~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~KeownFalls~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.61333529" lon="-85.09491513">
+<ele>436.000</ele>
+<time>2018-04-18T16:49:02.062Z</time>
+<name>Pinhoti~Johns~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~Johns~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.62309303" lon="-85.09825448">
+<ele>572.100</ele>
+<time>2018-04-18T16:49:25.543Z</time>
+<name>Pinhoti~JohnsMtn~S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~JohnsMtn~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.42389907" lon="-85.33338865">
+<ele>452.300</ele>
+<time>2018-04-18T16:42:28.044Z</time>
+<name>Pinhoti~JenkinsGap</name>
+<desc>Jenkins Gap Trail joins Pinhoti Trail in James H. Floyd SP.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~JenkinsGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.62017171" lon="-85.06916860">
+<ele>331.200</ele>
+<time>2018-04-18T16:56:09.858Z</time>
+<name>Pinhoti~HorseAlt~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~HorseAlt~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.58967288" lon="-85.12426922">
+<ele>245.400</ele>
+<time>2018-04-18T16:46:24.996Z</time>
+<name>Pinhoti~FS26</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~FS26</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.62672819" lon="-85.09461740">
+<ele>458.200</ele>
+<time>2018-04-18T16:55:24.647Z</time>
+<name>Pinhoti~FS208</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Pinhoti~FS208</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.42089400" lon="-85.33489203">
+<ele>422.800</ele>
+<time>2018-04-18T16:34:25.827Z</time>
+<name>JenkinsGap</name>
+<desc>Sloppy Floyd Lake Road.</desc>
+<sym>Dropoff</sym>
+<type>Dropoff</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JenkinsGap</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="34.39455751" lon="-85.35390665">
+<ele>415.500</ele>
 <time>2018-03-23T17:50:39.762Z</time>
 <name>HighPointSpurGA</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-23T17:52:37.131Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HighPointSpurGA</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.38988818" lon="-85.35649767">
+<ele>469.600</ele>
 <time>2018-03-23T15:41:00.451Z</time>
 <name>HighPoint</name>
 <sym>Summit</sym>
@@ -165,17 +164,20 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.74052315" lon="-85.01609222">
-<time>2019-02-25T15:19:39.893Z</time>
+<wpt lat="34.66381236" lon="-85.05988103">
+<ele>342.500</ele>
+<time>2018-04-12T22:11:42.529Z</time>
+<name>GA136</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DugGapMtnRd</label_text>
+<label_text>GA136</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.73323931" lon="-85.01896795">
+<ele>552.600</ele>
 <time>2018-04-12T22:12:04.244Z</time>
 <name>DugMtn</name>
 <sym>Summit</sym>
@@ -183,6 +185,18 @@
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DugMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.74052315" lon="-85.01609222">
+<ele>448.400</ele>
+<time>2019-02-25T15:19:39.892Z</time>
+<name>DugGapMtnRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DugGapMtnRd</label_text>
 </label>
 </extensions>
 </wpt>

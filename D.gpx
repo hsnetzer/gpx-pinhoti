@@ -3,774 +3,167 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T16:06:56.197Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:55:37.643Z</time>
 </extensions>
 </metadata>
-<wpt lat="33.52532348" lon="-85.79023714">
-<ele>421.000</ele>
-<time>2018-03-05T19:51:14.803Z</time>
-<name>PineMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:51:27.299Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PineMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.84230725" lon="-85.63329739">
-<ele>448.000</ele>
-<time>2018-03-06T17:30:16.029Z</time>
-<name>BerryMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T17:30:24.868Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BerryMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.84083007" lon="-85.62556190">
-<ele>460.000</ele>
-<time>2018-03-06T17:30:54.330Z</time>
-<name>RedMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T17:31:04.532Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RedMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.50348497" lon="-85.80227489">
-<ele>524.000</ele>
-<time>2018-03-05T19:50:34.747Z</time>
-<name>OakHill</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:50:42.919Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OakHill</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.29778979" lon="-86.07462404">
-<ele>585.000</ele>
-<time>2018-03-06T21:52:52.344Z</time>
-<name>HornMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T21:53:07.952Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HornMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.88023056" lon="-85.51506025">
-<ele>587.000</ele>
-<time>2018-03-06T17:29:22.096Z</time>
-<name>OakeyMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T17:29:32.810Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OakeyMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.50551628" lon="-85.79096670">
-<ele>595.000</ele>
-<time>2018-03-05T19:50:50.948Z</time>
-<name>BlueMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:50:59.710Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BlueMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.88232896" lon="-85.58717412">
-<ele>644.000</ele>
-<time>2018-03-06T17:28:51.804Z</time>
-<name>DuggerMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T17:29:02.313Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DuggerMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.45362200" lon="-85.82098598">
-<ele>663.000</ele>
-<time>2018-03-05T19:48:41.828Z</time>
-<name>McDillPoint</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:48:56.604Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>McDillPoint</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.41572917" lon="-85.82405866">
-<ele>681.000</ele>
-<time>2018-03-06T22:15:51.419Z</time>
-<name>ParkerHighPoint</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:16:03.079Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ParkerHighPoint</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.42301673" lon="-85.82688034">
-<ele>705.000</ele>
-<time>2018-03-06T22:15:18.232Z</time>
-<name>LittleCaneyHead</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:15:30.664Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LittleCaneyHead</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.49532331" lon="-85.80785389">
-<ele>707.000</ele>
-<time>2018-03-05T19:49:55.536Z</time>
-<name>BaldRock</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:50:05.152Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BaldRock</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.41662552" lon="-85.83133952">
-<ele>711.000</ele>
-<time>2018-03-06T22:12:44.654Z</time>
-<name>OdumPoint</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:12:55.886Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OdumPoint</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.45838837" lon="-85.81274087">
-<ele>714.000</ele>
-<time>2018-03-05T19:48:19.565Z</time>
-<name>HernandezPeak</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:49:06.317Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HernandezPeak</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="33.48543479" lon="-85.80860490">
-<ele>734.000</ele>
+<ele>733.100</ele>
 <time>2018-03-05T19:49:38.234Z</time>
 <name>CheahaMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-05T19:49:48.441Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CheahaMtn</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.87818304" lon="-85.55121746">
-<time>2018-04-12T22:03:25.717Z</time>
-<name>CountyRd500~4</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.45838837" lon="-85.81274087">
+<ele>710.200</ele>
+<time>2018-03-05T19:48:19.565Z</time>
+<name>HernandezPeak</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd500~4</label_text>
+<label_text>HernandezPeak</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.83325471" lon="-85.62243078">
-<time>2018-04-12T22:00:06.786Z</time>
-<name>RabbittownRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.41662552" lon="-85.83133952">
+<ele>708.300</ele>
+<time>2018-03-06T22:12:44.654Z</time>
+<name>OdumPoint</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RabbittownRd</label_text>
+<label_text>OdumPoint</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.83351100" lon="-85.62388722">
-<time>2018-04-12T21:59:19.718Z</time>
-<name>RabbitParkingSpur</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
+<wpt lat="33.49532331" lon="-85.80785389">
+<ele>706.000</ele>
+<time>2018-03-05T19:49:55.536Z</time>
+<name>BaldRock</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RabbitParkingSpur</label_text>
+<label_text>BaldRock</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.79447170" lon="-85.57965491">
-<time>2018-04-12T21:58:55.772Z</time>
-<name>CountyRd540</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.42301673" lon="-85.82688034">
+<ele>699.400</ele>
+<time>2018-03-06T22:15:18.232Z</time>
+<name>LittleCaneyHead</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd540</label_text>
+<label_text>LittleCaneyHead</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.77705695" lon="-85.56360792">
-<time>2018-04-12T21:58:25.524Z</time>
-<name>CountyRd553D</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.41186471" lon="-85.82947136">
+<ele>680.300</ele>
+<time>2018-03-06T22:16:22.835Z</time>
+<name>BigCaneyHead</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd553D</label_text>
+<label_text>BigCaneyHead</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.77433212" lon="-85.56854721">
-<time>2018-04-12T21:57:56.913Z</time>
-<name>CountyRd61</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.41572917" lon="-85.82405866">
+<ele>674.800</ele>
+<time>2018-03-06T22:15:51.419Z</time>
+<name>ParkerHighPoint</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd61</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.72472571" lon="-85.60151693">
-<time>2018-04-12T21:57:21.376Z</time>
-<name>SkywayMotorway</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SkywayMotorway</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.71372951" lon="-85.61721321">
-<time>2018-04-12T21:56:36.698Z</time>
-<name>CountyRd531~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd531~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.68400173" lon="-85.63354250">
-<time>2018-04-12T21:56:17.618Z</time>
-<name>CountyRd531</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd531</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.67209426" lon="-85.63790914">
-<time>2018-04-12T21:55:55.310Z</time>
-<name>CountyRd523</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd523</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.65128919" lon="-85.63426133">
-<time>2018-04-12T21:55:42.190Z</time>
-<name>CountyRd500~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd500~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.64886878" lon="-85.63149329">
-<time>2018-04-12T21:55:10.819Z</time>
-<name>CountyRd500</name>
-<desc>Parking nearby.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd500</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.32798216" lon="-86.01133701">
-<time>2018-04-12T21:54:07.841Z</time>
-<name>ChandlerGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T21:54:16.671Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ChandlerGap</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.17218189" lon="-86.09390345">
-<time>2018-04-12T21:53:24.130Z</time>
-<name>WhiteGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WhiteGap</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.78719725" lon="-85.56516495">
-<time>2018-04-12T21:52:09.530Z</time>
-<name>CountyRd500~3</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:03:07.325Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd500~3</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.53866519" lon="-85.75983968">
-<time>2018-04-12T21:50:27.678Z</time>
-<name>HillabeeCrS</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HillabeeCrS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.45102493" lon="-85.82163911">
-<time>2018-04-12T21:49:57.180Z</time>
-<name>McDillSpur</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>McDillSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.44806963" lon="-85.82320640">
-<time>2018-04-11T21:43:19.688Z</time>
-<name>McDillLookout</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>McDillLookout</label_text>
+<label_text>ParkerHighPoint</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.41248668" lon="-85.82822145">
+<ele>673.500</ele>
 <time>2018-03-06T22:17:19.290Z</time>
 <name>NubbinCreek~Odum</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NubbinCreek~Odum</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.41186471" lon="-85.82947136">
-<time>2018-03-06T22:16:22.835Z</time>
-<name>BigCaneyHead</name>
+<wpt lat="33.45362200" lon="-85.82098598">
+<ele>662.200</ele>
+<time>2018-03-05T19:48:41.828Z</time>
+<name>McDillPoint</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:16:45.512Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BigCaneyHead</label_text>
+<label_text>McDillPoint</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.88232896" lon="-85.58717412">
+<ele>649.100</ele>
+<time>2018-03-06T17:28:51.804Z</time>
+<name>DuggerMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DuggerMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.45102493" lon="-85.82163911">
+<ele>627.600</ele>
+<time>2018-04-12T21:49:57.180Z</time>
+<name>McDillSpur</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>McDillSpur</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.42356215" lon="-85.83038465">
+<ele>627.400</ele>
 <time>2018-03-06T22:13:39.958Z</time>
 <name>OdumTrail</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:17:02.974Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>OdumTrail</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.32847360" lon="-85.99015591">
-<time>2018-03-06T21:59:52.182Z</time>
-<name>UnionT</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:00:05.882Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>UnionT</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.38297491" lon="-85.90186161">
-<time>2018-03-06T22:04:19.353Z</time>
-<name>CountyRd600-2~4</name>
-<desc>County Road 600-2 turns into Talladega Scenic Highway.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T22:05:47.545Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd600-2~4</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.32817639" lon="-85.98780630">
-<time>2018-03-06T22:00:29.106Z</time>
-<name>SkylineDr2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SkylineDr2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.32741533" lon="-85.99350331">
-<time>2018-03-06T21:59:08.676Z</time>
-<name>SkylineDr</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T21:59:16.721Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SkylineDr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.36066355" lon="-85.93199087">
-<time>2018-03-06T22:02:41.344Z</time>
-<name>GuntersTnRd</name>
-<desc>County Road 600-2 crosses Gunters Tn Road/Hanging Rock Road.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GuntersTnRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.37798833" lon="-85.90926183">
-<time>2018-03-06T22:03:45.349Z</time>
-<name>CountyRd600-2~3</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd600-2~3</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.34610876" lon="-85.96173388">
-<time>2018-03-06T22:01:41.750Z</time>
-<name>CountyRd600-2~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd600-2~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.33724998" lon="-85.97268400">
-<time>2018-03-06T22:01:02.415Z</time>
-<name>CountyRd600-2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd600-2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.38082820" lon="-85.90660644">
-<time>2018-03-06T22:04:42.461Z</time>
-<name>BurgessPoint</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BurgessPoint</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.33343153" lon="-86.02578101">
-<time>2018-03-06T21:57:51.141Z</time>
-<name>AshlandParking</name>
-<desc>Ashland Highway, AL 77.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AshlandParking</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.31955672" lon="-86.03491125">
-<time>2018-03-06T21:56:32.284Z</time>
-<name>ThePinnacle</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ThePinnacle</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.33569425" lon="-86.06059072">
-<time>2018-03-06T21:56:00.346Z</time>
-<name>DryCreek</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DryCreek</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.31537041" lon="-86.05963049">
-<time>2018-03-06T21:55:14.023Z</time>
-<name>CountyRoad307~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRoad307~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.31349676" lon="-86.06788633">
-<time>2018-03-06T21:54:50.442Z</time>
-<name>CountyRoad307</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRoad307</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.40423440" lon="-85.87437836">
-<time>2018-03-06T21:49:37.412Z</time>
-<name>TalladegaScenicHwy</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TalladegaScenicHwy</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="33.47509149" lon="-85.80702809">
+<ele>611.300</ele>
 <time>2018-03-06T21:48:35.446Z</time>
 <name>TalladegaScenicDr</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TalladegaScenicDr</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.56161697" lon="-85.73061732">
-<time>2018-03-06T21:46:02.306Z</time>
-<name>CountyRd24</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd24</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.52513068" lon="-85.78471748">
-<time>2018-03-06T21:47:45.825Z</time>
-<name>CheahaRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CheahaRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.23135612" lon="-86.07957808">
-<time>2018-03-06T21:51:45.552Z</time>
-<name>CountyRd6000-1~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd6000-1~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.22457536" lon="-86.07746986">
-<time>2018-03-06T21:51:14.096Z</time>
-<name>CountyRd6000-1</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd6000-1</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.59123471" lon="-85.69007439">
-<time>2018-03-06T17:02:30.603Z</time>
-<name>US431</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>US431</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.61907286" lon="-85.65689681">
-<time>2018-03-06T17:00:52.316Z</time>
-<name>I-20</name>
-<sym>Bridge</sym>
-<type>Bridge</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T17:01:06.553Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>I-20</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.64553465" lon="-85.63074527">
-<time>2018-03-06T16:59:23.101Z</time>
-<name>AL281~4</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:01:42.227Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AL281~4</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.63625578" lon="-85.64682243">
-<time>2018-03-06T16:58:49.741Z</time>
-<name>AL281~3</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:01:52.055Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AL281~3</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.61739431" lon="-85.65739570">
-<time>2018-03-06T16:54:22.617Z</time>
-<name>AL281~S</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:01:10.559Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AL281~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.62038896" lon="-85.65646229">
-<time>2018-03-06T16:55:52.709Z</time>
-<name>AL281~N</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:01:32.492Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AL281~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.83272411" lon="-85.62482161">
-<time>2018-03-06T15:55:36.035Z</time>
-<name>RabbittownParking</name>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T15:55:44.505Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RabbittownParking</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.19559757" lon="-86.06393963">
-<time>2018-03-06T14:50:39.195Z</time>
-<name>AL184</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AL184</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="33.93857316" lon="-85.50302621">
-<ele>570.281</ele>
-<time>2018-04-12T22:05:08.055Z</time>
-<name>AugustaMineRidge</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AugustaMineRidge</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="34.03046691" lon="-85.42533066">
-<ele>599.846</ele>
+<ele>598.200</ele>
 <time>2018-04-12T22:07:27.506Z</time>
 <name>FlagpoleMtn</name>
 <sym>Summit</sym>
@@ -781,20 +174,418 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.04781888" lon="-85.38071077">
-<time>2018-04-12T22:08:31.896Z</time>
-<name>OldJacksonChapelRdS</name>
-<desc>Begin roadwalk.</desc>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.50551628" lon="-85.79096670">
+<ele>597.500</ele>
+<time>2018-03-05T19:50:50.948Z</time>
+<name>BlueMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:09:07.651Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OldJacksonChapelRdS</label_text>
+<label_text>BlueMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.44806963" lon="-85.82320640">
+<ele>597.200</ele>
+<time>2018-04-11T21:43:19.688Z</time>
+<name>McDillLookout</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>McDillLookout</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.88023056" lon="-85.51506025">
+<ele>590.000</ele>
+<time>2018-03-06T17:29:22.096Z</time>
+<name>OakeyMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OakeyMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.29778979" lon="-86.07462404">
+<ele>584.700</ele>
+<time>2018-03-06T21:52:52.344Z</time>
+<name>HornMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HornMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.93857316" lon="-85.50302621">
+<ele>569.600</ele>
+<time>2018-04-12T22:05:08.055Z</time>
+<name>AugustaMineRidge</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AugustaMineRidge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.38082820" lon="-85.90660644">
+<ele>568.300</ele>
+<time>2018-03-06T22:04:42.461Z</time>
+<name>BurgessPoint</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BurgessPoint</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.23135612" lon="-86.07957808">
+<ele>524.900</ele>
+<time>2018-03-06T21:51:45.552Z</time>
+<name>CountyRd6000-1~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd6000-1~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.50348497" lon="-85.80227489">
+<ele>523.800</ele>
+<time>2018-03-05T19:50:34.747Z</time>
+<name>OakHill</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OakHill</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.38297491" lon="-85.90186161">
+<ele>503.300</ele>
+<time>2018-03-06T22:04:19.353Z</time>
+<name>CountyRd600-2~4</name>
+<desc>County Road 600-2 turns into Talladega Scenic Highway.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd600-2~4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.31955672" lon="-86.03491125">
+<ele>502.700</ele>
+<time>2018-03-06T21:56:32.284Z</time>
+<name>ThePinnacle</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ThePinnacle</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.22457536" lon="-86.07746986">
+<ele>495.900</ele>
+<time>2018-03-06T21:51:14.096Z</time>
+<name>CountyRd6000-1</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd6000-1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.31349676" lon="-86.06788633">
+<ele>482.900</ele>
+<time>2018-03-06T21:54:50.442Z</time>
+<name>CountyRoad307</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRoad307</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.31537041" lon="-86.05963049">
+<ele>482.500</ele>
+<time>2018-03-06T21:55:14.023Z</time>
+<name>CountyRoad307~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRoad307~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.37798833" lon="-85.90926183">
+<ele>478.400</ele>
+<time>2018-03-06T22:03:45.349Z</time>
+<name>CountyRd600-2~3</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd600-2~3</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.84083007" lon="-85.62556190">
+<ele>458.900</ele>
+<time>2018-03-06T17:30:54.330Z</time>
+<name>RedMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RedMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.34610876" lon="-85.96173388">
+<ele>453.800</ele>
+<time>2018-03-06T22:01:41.750Z</time>
+<name>CountyRd600-2~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd600-2~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.94824820" lon="-85.50009724">
+<ele>447.300</ele>
+<time>2018-04-12T22:05:32.203Z</time>
+<name>LanieGap</name>
+<sym>Dropoff</sym>
+<type>Dropoff</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LanieGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.84230725" lon="-85.63329739">
+<ele>446.500</ele>
+<time>2018-03-06T17:30:16.029Z</time>
+<name>BerryMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BerryMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.40423440" lon="-85.87437836">
+<ele>439.300</ele>
+<time>2018-03-06T21:49:37.412Z</time>
+<name>TalladegaScenicHwy</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TalladegaScenicHwy</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.52532348" lon="-85.79023714">
+<ele>424.200</ele>
+<time>2018-03-05T19:51:14.803Z</time>
+<name>PineMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PineMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.33724998" lon="-85.97268400">
+<ele>411.300</ele>
+<time>2018-03-06T22:01:02.415Z</time>
+<name>CountyRd600-2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd600-2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.36066355" lon="-85.93199087">
+<ele>408.900</ele>
+<time>2018-03-06T22:02:41.344Z</time>
+<name>GuntersTnRd</name>
+<desc>County Road 600-2 crosses Gunters Tn Road/Hanging Rock Road.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GuntersTnRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.79447170" lon="-85.57965491">
+<ele>406.700</ele>
+<time>2018-04-12T21:58:55.772Z</time>
+<name>CountyRd540</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd540</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.68400173" lon="-85.63354250">
+<ele>390.800</ele>
+<time>2018-04-12T21:56:17.618Z</time>
+<name>CountyRd531</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd531</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.52513068" lon="-85.78471748">
+<ele>386.900</ele>
+<time>2018-03-06T21:47:45.825Z</time>
+<name>CheahaRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CheahaRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.17218189" lon="-86.09390345">
+<ele>385.200</ele>
+<time>2018-04-12T21:53:24.130Z</time>
+<name>WhiteGap</name>
+<sym>Dropoff</sym>
+<type>Dropoff</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WhiteGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.67209426" lon="-85.63790914">
+<ele>376.400</ele>
+<time>2018-04-12T21:55:55.310Z</time>
+<name>CountyRd523</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd523</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.77433212" lon="-85.56854721">
+<ele>376.100</ele>
+<time>2018-04-12T21:57:56.913Z</time>
+<name>CountyRd61</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd61</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.78719725" lon="-85.56516495">
+<ele>367.500</ele>
+<time>2018-04-12T21:52:09.530Z</time>
+<name>CountyRd500~3</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd500~3</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.77705695" lon="-85.56360792">
+<ele>365.800</ele>
+<time>2018-04-12T21:58:25.524Z</time>
+<name>CountyRd553D</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd553D</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.19559757" lon="-86.06393963">
+<ele>361.600</ele>
+<time>2018-03-06T14:50:39.195Z</time>
+<name>AL184</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AL184</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.92820054" lon="-85.50795879">
+<ele>346.600</ele>
+<time>2018-04-12T22:04:23.032Z</time>
+<name>CountyRd70</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd70</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.32798216" lon="-86.01133701">
+<ele>337.700</ele>
+<time>2018-04-12T21:54:07.841Z</time>
+<name>ChandlerGap</name>
+<sym>Dropoff</sym>
+<type>Dropoff</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ChandlerGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.63625578" lon="-85.64682243">
+<ele>328.900</ele>
+<time>2018-03-06T16:58:49.741Z</time>
+<name>AL281~3</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AL281~3</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.04655963" lon="-85.40467765">
+<ele>325.300</ele>
 <time>2018-04-12T22:07:53.917Z</time>
 <name>SpringCreek</name>
 <sym>Water Source</sym>
@@ -805,7 +596,68 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="33.62038896" lon="-85.65646229">
+<ele>315.900</ele>
+<time>2018-03-06T16:55:52.709Z</time>
+<name>AL281~N</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AL281~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.65128919" lon="-85.63426133">
+<ele>315.400</ele>
+<time>2018-04-12T21:55:42.190Z</time>
+<name>CountyRd500~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd500~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.61739431" lon="-85.65739570">
+<ele>315.100</ele>
+<time>2018-03-06T16:54:22.617Z</time>
+<name>AL281~S</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AL281~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.64553465" lon="-85.63074527">
+<ele>304.900</ele>
+<time>2018-03-06T16:59:23.101Z</time>
+<name>AL281~4</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AL281~4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.61907286" lon="-85.65689681">
+<ele>304.400</ele>
+<time>2018-03-06T17:00:52.316Z</time>
+<name>I-20</name>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>I-20</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="34.01423709" lon="-85.46011087">
+<ele>302.800</ele>
 <time>2018-04-12T22:07:06.991Z</time>
 <name>HawkinsHollow</name>
 <sym>Water Source</sym>
@@ -816,29 +668,58 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.00662472" lon="-85.45788732">
-<time>2018-04-12T22:06:39.988Z</time>
-<name>CherokeeCounty8</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.33343153" lon="-86.02578101">
+<ele>299.200</ele>
+<time>2018-03-06T21:57:51.141Z</time>
+<name>AshlandParking</name>
+<desc>Ashland Highway, AL 77.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CherokeeCounty8</label_text>
+<label_text>AshlandParking</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.97546783" lon="-85.47661450">
-<time>2018-04-12T22:06:18.428Z</time>
-<name>US278</name>
+<wpt lat="33.72472571" lon="-85.60151693">
+<ele>290.400</ele>
+<time>2018-04-12T21:57:21.376Z</time>
+<name>SkywayMotorway</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>US278</label_text>
+<label_text>SkywayMotorway</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.64886878" lon="-85.63149329">
+<ele>285.900</ele>
+<time>2018-04-12T21:55:10.819Z</time>
+<name>CountyRd500</name>
+<desc>Parking nearby.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd500</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.32741533" lon="-85.99350331">
+<ele>277.800</ele>
+<time>2018-03-06T21:59:08.676Z</time>
+<name>SkylineDr</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SkylineDr</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.96923976" lon="-85.47954079">
+<ele>277.800</ele>
 <time>2018-04-12T22:05:51.984Z</time>
 <name>LanieHollow</name>
 <sym>Water Source</sym>
@@ -849,61 +730,208 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.94824820" lon="-85.50009724">
-<time>2018-04-12T22:05:32.203Z</time>
-<name>LanieGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
+<wpt lat="33.32817639" lon="-85.98780630">
+<ele>276.300</ele>
+<time>2018-03-06T22:00:29.106Z</time>
+<name>SkylineDr2</name>
+<sym>Car</sym>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LanieGap</label_text>
+<label_text>SkylineDr2</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.92820054" lon="-85.50795879">
-<time>2018-04-12T22:04:23.032Z</time>
-<name>CountyRd70</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="33.83351100" lon="-85.62388722">
+<ele>275.700</ele>
+<time>2018-04-12T21:59:19.718Z</time>
+<name>RabbitParkingSpur</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRd70</label_text>
+<label_text>RabbitParkingSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.71372951" lon="-85.61721321">
+<ele>275.700</ele>
+<time>2018-04-12T21:56:36.698Z</time>
+<name>CountyRd531~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd531~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.59123471" lon="-85.69007439">
+<ele>264.600</ele>
+<time>2018-03-06T17:02:30.603Z</time>
+<name>US431</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>US431</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.83272411" lon="-85.62482161">
+<ele>263.500</ele>
+<time>2018-03-06T15:55:36.035Z</time>
+<name>RabbittownParking</name>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RabbittownParking</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.83325471" lon="-85.62243078">
+<ele>263.100</ele>
+<time>2018-04-12T22:00:06.786Z</time>
+<name>RabbittownRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RabbittownRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.87818304" lon="-85.55121746">
+<ele>262.900</ele>
+<time>2018-04-12T22:03:25.717Z</time>
+<name>CountyRd500~4</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd500~4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.32847360" lon="-85.99015591">
+<ele>261.200</ele>
+<time>2018-03-06T21:59:52.182Z</time>
+<name>UnionT</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>UnionT</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.97546783" lon="-85.47661450">
+<ele>258.900</ele>
+<time>2018-04-12T22:06:18.428Z</time>
+<name>US278</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>US278</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.00662472" lon="-85.45788732">
+<ele>258.700</ele>
+<time>2018-04-12T22:06:39.988Z</time>
+<name>CherokeeCounty8</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CherokeeCounty8</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.04781888" lon="-85.38071077">
+<ele>254.900</ele>
+<time>2018-04-12T22:08:31.896Z</time>
+<name>OldJacksonChapelRdS</name>
+<desc>Begin roadwalk.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OldJacksonChapelRdS</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.91895700" lon="-85.49652185">
+<ele>246.200</ele>
 <time>2018-04-12T22:04:01.878Z</time>
 <name>CountyRd94</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:04:13.313Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd94</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.91804379" lon="-85.49651027">
+<ele>241.200</ele>
 <time>2018-03-05T20:02:36.974Z</time>
 <name>Pinhoti~Ladiga~N</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-23T17:52:32.250Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti~Ladiga~N</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="33.53866519" lon="-85.75983968">
+<ele>233.400</ele>
+<time>2018-04-12T21:50:27.678Z</time>
+<name>HillabeeCrS</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HillabeeCrS</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="33.91334556" lon="-85.50276384">
+<ele>233.200</ele>
 <time>2018-03-05T20:02:07.957Z</time>
 <name>Pinhoti~Ladiga~S</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-04-12T22:02:32.771Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti~Ladiga~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.56161697" lon="-85.73061732">
+<ele>221.400</ele>
+<time>2018-03-06T21:46:02.306Z</time>
+<name>CountyRd24</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CountyRd24</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="33.33569425" lon="-86.06059072">
+<ele>219.500</ele>
+<time>2018-03-06T21:56:00.346Z</time>
+<name>DryCreek</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DryCreek</label_text>
 </label>
 </extensions>
 </wpt>
