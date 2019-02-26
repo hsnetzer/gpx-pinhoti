@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:55:37.643Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.824Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -177,12 +177,13 @@
 <wpt lat="33.50551628" lon="-85.79096670">
 <ele>597.500</ele>
 <time>2018-03-05T19:50:50.948Z</time>
-<name>BlueMtn</name>
+<name>BlueMtnAL</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:37.969Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BlueMtn</label_text>
+<label_text>BlueMtnAL</label_text>
 </label>
 </extensions>
 </wpt>
@@ -286,12 +287,13 @@
 <wpt lat="33.31955672" lon="-86.03491125">
 <ele>502.700</ele>
 <time>2018-03-06T21:56:32.284Z</time>
-<name>ThePinnacle</name>
+<name>ThePinnacleAL</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.824Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ThePinnacle</label_text>
+<label_text>ThePinnacleAL</label_text>
 </label>
 </extensions>
 </wpt>
@@ -346,12 +348,13 @@
 <wpt lat="33.84083007" lon="-85.62556190">
 <ele>458.900</ele>
 <time>2018-03-06T17:30:54.330Z</time>
-<name>RedMtn</name>
+<name>RedMtnAL</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:18.783Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RedMtn</label_text>
+<label_text>RedMtnAL</label_text>
 </label>
 </extensions>
 </wpt>
