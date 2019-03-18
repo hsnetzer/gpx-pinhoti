@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="34.74649914" minlon="-84.67494891" maxlat="34.89290700" maxlon="-84.52739657"/>
+<bounds minlat="34.74649914" minlon="-84.67494891" maxlat="34.89290700" maxlon="-84.52734932"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T16:09:51.267Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:24:48.926Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.89123620" lon="-84.52841751">
+</active_point>
 </extensions>
 </metadata>
 <wpt lat="34.83443019" lon="-84.55882562">
@@ -25,6 +27,97 @@
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TripleHillRoad</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.88900514" lon="-84.52734932">
+<ele>780.288</ele>
+<time>2012-01-16T16:06:25Z</time>
+<name>BMTPinhotiTrail</name>
+<desc>Junction of the Pinhoti Trail with the BMT.</desc>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:06:36.422Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMTPinhotiTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.89125857" lon="-84.52843327">
+<time>2019-03-18T22:19:02.502Z</time>
+<name>SForkJacksRiver</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SForkJacksRiver</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.87156705" lon="-84.53986216">
+<time>2019-03-18T22:20:09.023Z</time>
+<desc>State Rt. 2.</desc>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:20:22.097Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BuddyCoveGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.86431664" lon="-84.54039927">
+<ele>843.000</ele>
+<time>2019-03-18T22:21:02.782Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:21:36.556Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CrenshawBranch843</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.84887966" lon="-84.54755943">
+<time>2019-03-18T22:22:12.077Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RichKnobBr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.83750733" lon="-84.55615323">
+<time>2019-03-18T22:22:44.107Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HeddyCreek</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.82393928" lon="-84.56644687">
+<time>2019-03-18T22:23:24.514Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LittleBearCreek</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.79496605" lon="-84.60325014">
+<time>2019-03-18T22:24:27.118Z</time>
+<desc>Consauga Creek Road.</desc>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:24:48.926Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ConasaugaCreek</label_text>
 </label>
 </extensions>
 </wpt>
