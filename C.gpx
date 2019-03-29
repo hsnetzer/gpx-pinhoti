@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.07949376" minlon="-86.24445702" maxlat="33.13891561" maxlon="-86.19254814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T19:21:44.160Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:28.997Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.13891561" lon="-86.19856775">
@@ -11,9 +11,9 @@
 <time>2018-03-05T20:03:30.313Z</time>
 <name>TrammelMotorwayN</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T19:21:41.929Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:28.997Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TrammelMotorwayN</label_text>
 </label>

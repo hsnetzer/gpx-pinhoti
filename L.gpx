@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.74649914" minlon="-84.67494891" maxlat="34.89290700" maxlon="-84.52734932"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:24:48.926Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:39.728Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.89123620" lon="-84.52841751">
 </active_point>
 </extensions>
@@ -12,8 +12,9 @@
 <time>2018-03-06T22:28:24.155Z</time>
 <name>MountaintownCrTr</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:39.728Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MountaintownCrTr</label_text>
 </label>
@@ -23,8 +24,9 @@
 <time>2018-03-06T22:27:56.401Z</time>
 <name>TripleHillRoad</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:39.728Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TripleHillRoad</label_text>
 </label>
@@ -61,7 +63,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:20:22.097Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:20:22.096Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BuddyCoveGap</label_text>
 </label>

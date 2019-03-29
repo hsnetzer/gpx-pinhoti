@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.824Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -155,8 +155,9 @@
 <time>2018-03-06T21:48:35.446Z</time>
 <name>TalladegaScenicDr</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TalladegaScenicDr</label_text>
 </label>
@@ -252,8 +253,9 @@
 <time>2018-03-06T21:51:45.552Z</time>
 <name>CountyRd6000-1~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd6000-1~2</label_text>
 </label>
@@ -277,8 +279,9 @@
 <name>CountyRd600-2~4</name>
 <desc>County Road 600-2 turns into Talladega Scenic Highway.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd600-2~4</label_text>
 </label>
@@ -291,7 +294,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.824Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.823Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ThePinnacleAL</label_text>
 </label>
@@ -302,8 +305,9 @@
 <time>2018-03-06T21:51:14.096Z</time>
 <name>CountyRd6000-1</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd6000-1</label_text>
 </label>
@@ -314,8 +318,9 @@
 <time>2018-03-06T21:54:50.442Z</time>
 <name>CountyRoad307</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRoad307</label_text>
 </label>
@@ -326,8 +331,9 @@
 <time>2018-03-06T21:55:14.023Z</time>
 <name>CountyRoad307~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRoad307~2</label_text>
 </label>
@@ -338,8 +344,9 @@
 <time>2018-03-06T22:03:45.349Z</time>
 <name>CountyRd600-2~3</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd600-2~3</label_text>
 </label>
@@ -363,8 +370,9 @@
 <time>2018-03-06T22:01:41.750Z</time>
 <name>CountyRd600-2~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd600-2~2</label_text>
 </label>
@@ -375,8 +383,9 @@
 <time>2018-04-12T22:05:32.203Z</time>
 <name>LanieGap</name>
 <sym>Dropoff</sym>
-<type>Dropoff</type>
+<type>Gap</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LanieGap</label_text>
 </label>
@@ -399,8 +408,9 @@
 <time>2018-03-06T21:49:37.412Z</time>
 <name>TalladegaScenicHwy</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TalladegaScenicHwy</label_text>
 </label>
@@ -423,8 +433,9 @@
 <time>2018-03-06T22:01:02.415Z</time>
 <name>CountyRd600-2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd600-2</label_text>
 </label>
@@ -436,8 +447,9 @@
 <name>GuntersTnRd</name>
 <desc>County Road 600-2 crosses Gunters Tn Road/Hanging Rock Road.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GuntersTnRd</label_text>
 </label>
@@ -448,8 +460,9 @@
 <time>2018-04-12T21:58:55.772Z</time>
 <name>CountyRd540</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd540</label_text>
 </label>
@@ -460,8 +473,9 @@
 <time>2018-04-12T21:56:17.618Z</time>
 <name>CountyRd531</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd531</label_text>
 </label>
@@ -472,8 +486,9 @@
 <time>2018-03-06T21:47:45.825Z</time>
 <name>CheahaRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CheahaRd</label_text>
 </label>
@@ -484,8 +499,9 @@
 <time>2018-04-12T21:53:24.130Z</time>
 <name>WhiteGap</name>
 <sym>Dropoff</sym>
-<type>Dropoff</type>
+<type>Gap</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WhiteGap</label_text>
 </label>
@@ -496,8 +512,9 @@
 <time>2018-04-12T21:55:55.310Z</time>
 <name>CountyRd523</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd523</label_text>
 </label>
@@ -508,8 +525,9 @@
 <time>2018-04-12T21:57:56.913Z</time>
 <name>CountyRd61</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd61</label_text>
 </label>
@@ -520,8 +538,9 @@
 <time>2018-04-12T21:52:09.530Z</time>
 <name>CountyRd500~3</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd500~3</label_text>
 </label>
@@ -532,8 +551,9 @@
 <time>2018-04-12T21:58:25.524Z</time>
 <name>CountyRd553D</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd553D</label_text>
 </label>
@@ -544,8 +564,9 @@
 <time>2018-03-06T14:50:39.195Z</time>
 <name>AL184</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AL184</label_text>
 </label>
@@ -556,8 +577,9 @@
 <time>2018-04-12T22:04:23.032Z</time>
 <name>CountyRd70</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd70</label_text>
 </label>
@@ -568,8 +590,9 @@
 <time>2018-04-12T21:54:07.841Z</time>
 <name>ChandlerGap</name>
 <sym>Dropoff</sym>
-<type>Dropoff</type>
+<type>Gap</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ChandlerGap</label_text>
 </label>
@@ -580,8 +603,9 @@
 <time>2018-03-06T16:58:49.741Z</time>
 <name>AL281~3</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AL281~3</label_text>
 </label>
@@ -604,8 +628,9 @@
 <time>2018-03-06T16:55:52.709Z</time>
 <name>AL281~N</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AL281~N</label_text>
 </label>
@@ -616,8 +641,9 @@
 <time>2018-04-12T21:55:42.190Z</time>
 <name>CountyRd500~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd500~2</label_text>
 </label>
@@ -628,8 +654,9 @@
 <time>2018-03-06T16:54:22.617Z</time>
 <name>AL281~S</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AL281~S</label_text>
 </label>
@@ -640,8 +667,9 @@
 <time>2018-03-06T16:59:23.101Z</time>
 <name>AL281~4</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AL281~4</label_text>
 </label>
@@ -689,8 +717,9 @@
 <time>2018-04-12T21:57:21.376Z</time>
 <name>SkywayMotorway</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SkywayMotorway</label_text>
 </label>
@@ -702,8 +731,9 @@
 <name>CountyRd500</name>
 <desc>Parking nearby.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd500</label_text>
 </label>
@@ -714,8 +744,9 @@
 <time>2018-03-06T21:59:08.676Z</time>
 <name>SkylineDr</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SkylineDr</label_text>
 </label>
@@ -738,8 +769,9 @@
 <time>2018-03-06T22:00:29.106Z</time>
 <name>SkylineDr2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SkylineDr2</label_text>
 </label>
@@ -762,8 +794,9 @@
 <time>2018-04-12T21:56:36.698Z</time>
 <name>CountyRd531~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd531~2</label_text>
 </label>
@@ -774,8 +807,9 @@
 <time>2018-03-06T17:02:30.603Z</time>
 <name>US431</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US431</label_text>
 </label>
@@ -798,8 +832,9 @@
 <time>2018-04-12T22:00:06.786Z</time>
 <name>RabbittownRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RabbittownRd</label_text>
 </label>
@@ -810,8 +845,9 @@
 <time>2018-04-12T22:03:25.717Z</time>
 <name>CountyRd500~4</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd500~4</label_text>
 </label>
@@ -822,8 +858,9 @@
 <time>2018-03-06T21:59:52.182Z</time>
 <name>UnionT</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>UnionT</label_text>
 </label>
@@ -834,8 +871,9 @@
 <time>2018-04-12T22:06:18.428Z</time>
 <name>US278</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US278</label_text>
 </label>
@@ -846,8 +884,9 @@
 <time>2018-04-12T22:06:39.988Z</time>
 <name>CherokeeCounty8</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CherokeeCounty8</label_text>
 </label>
@@ -859,8 +898,9 @@
 <name>OldJacksonChapelRdS</name>
 <desc>Begin roadwalk.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>OldJacksonChapelRdS</label_text>
 </label>
@@ -871,8 +911,9 @@
 <time>2018-04-12T22:04:01.878Z</time>
 <name>CountyRd94</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd94</label_text>
 </label>
@@ -919,8 +960,9 @@
 <time>2018-03-06T21:46:02.306Z</time>
 <name>CountyRd24</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd24</label_text>
 </label>
