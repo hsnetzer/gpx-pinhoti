@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -705,8 +705,9 @@
 <name>AshlandParking</name>
 <desc>Ashland Highway, AL 77.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AshlandParking</label_text>
 </label>
@@ -820,8 +821,9 @@
 <time>2018-03-06T15:55:36.035Z</time>
 <name>RabbittownParking</name>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RabbittownParking</label_text>
 </label>
