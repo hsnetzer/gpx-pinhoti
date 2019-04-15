@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.38768027" minlon="-85.36412241" maxlat="34.74052315" maxlon="-85.01581972"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:19.464Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-04-15T16:18:53.755Z</time>
 </extensions>
 </metadata>
 <wpt lat="34.47582939" lon="-85.29292744">
@@ -208,11 +208,11 @@
 </extensions>
 </wpt>
 <trk>
-<name>HPS</name>
+<name>GA-HPS</name>
 <desc>good,sw</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:32:27.206Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-04-15T16:18:53.755Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>High Point Spur</label_text>
