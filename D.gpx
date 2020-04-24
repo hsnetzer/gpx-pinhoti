@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:39:33.400Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -316,26 +316,24 @@
 <wpt lat="33.31349676" lon="-86.06788633">
 <ele>482.900</ele>
 <time>2018-03-06T21:54:50.442Z</time>
-<name>CountyRoad307</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:35:41.497Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRoad307</label_text>
+<label_text>CountyRd307</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="33.31537041" lon="-86.05963049">
 <ele>482.500</ele>
 <time>2018-03-06T21:55:14.023Z</time>
-<name>CountyRoad307~2</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:36:18.828Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CountyRoad307~2</label_text>
+<label_text>CountyRd307~2</label_text>
 </label>
 </extensions>
 </wpt>
@@ -533,14 +531,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.78719725" lon="-85.56516495">
+<wpt lat="33.78712334" lon="-85.56512472">
 <ele>367.500</ele>
 <time>2018-04-12T21:52:09.530Z</time>
 <name>CountyRd500~3</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:38:25.188Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd500~3</label_text>
 </label>
@@ -585,14 +583,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.32798216" lon="-86.01133701">
+<wpt lat="33.32795401" lon="-86.01139065">
 <ele>337.700</ele>
 <time>2018-04-12T21:54:07.841Z</time>
 <name>ChandlerGap</name>
 <sym>Dropoff</sym>
 <type>Gap</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:38:54.104Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ChandlerGap</label_text>
 </label>
@@ -1135,7 +1133,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T16:06:56.197Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:39:33.400Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti Trail</label_text>
 </label>
@@ -8620,7 +8618,7 @@
 <trkpt lat="33.31339467" lon="-86.06803958">
 <ele>483.794</ele>
 </trkpt>
-<trkpt lat="33.31350727" lon="-86.06778209">
+<trkpt lat="33.31349151" lon="-86.06788536">
 <ele>482.770</ele>
 </trkpt>
 <trkpt lat="33.31350952" lon="-86.06766139">
@@ -15274,7 +15272,7 @@
 <trkpt lat="33.40427661" lon="-85.87445525">
 <ele>439.388</ele>
 </trkpt>
-<trkpt lat="33.40415063" lon="-85.87433186">
+<trkpt lat="33.40423162" lon="-85.87437880">
 <ele>439.345</ele>
 </trkpt>
 <trkpt lat="33.40415963" lon="-85.87420312">
@@ -19906,7 +19904,7 @@
 <trkpt lat="33.52497969" lon="-85.78447920">
 <ele>390.855</ele>
 </trkpt>
-<trkpt lat="33.52509201" lon="-85.78462941">
+<trkpt lat="33.52512458" lon="-85.78469915">
 <ele>388.060</ele>
 </trkpt>
 <trkpt lat="33.52526274" lon="-85.78467232">
@@ -24262,7 +24260,7 @@
 <trkpt lat="33.61886983" lon="-85.65691290">
 <ele>306.150</ele>
 </trkpt>
-<trkpt lat="33.61899549" lon="-85.65689144">
+<trkpt lat="33.61906954" lon="-85.65688071">
 <ele>304.380</ele>
 </trkpt>
 <trkpt lat="33.61915257" lon="-85.65684316">
@@ -30838,7 +30836,7 @@
 <trkpt lat="33.77416797" lon="-85.56872723">
 <ele>375.495</ele>
 </trkpt>
-<trkpt lat="33.77426653" lon="-85.56861458">
+<trkpt lat="33.77433821" lon="-85.56854887">
 <ele>375.845</ele>
 </trkpt>
 <trkpt lat="33.77438300" lon="-85.56844828">
@@ -38611,7 +38609,7 @@
 <trkpt lat="33.91877089" lon="-85.49650284">
 <ele>246.272</ele>
 </trkpt>
-<trkpt lat="33.91888269" lon="-85.49650820">
+<trkpt lat="33.91895760" lon="-85.49651893">
 <ele>246.256</ele>
 </trkpt>
 <trkpt lat="33.91907947" lon="-85.49652966">
