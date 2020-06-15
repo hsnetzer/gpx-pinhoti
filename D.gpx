@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:39:33.400Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:52:13.377Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -544,14 +544,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="33.77705695" lon="-85.56360792">
+<wpt lat="33.77712191" lon="-85.56354623">
 <ele>365.800</ele>
 <time>2018-04-12T21:58:25.524Z</time>
 <name>CountyRd553D</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:51:37.387Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CountyRd553D</label_text>
 </label>
@@ -1133,7 +1133,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:39:33.400Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:52:13.377Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti Trail</label_text>
 </label>
@@ -24287,7 +24287,7 @@
 <trkpt lat="33.62015788" lon="-85.65660176">
 <ele>314.049</ele>
 </trkpt>
-<trkpt lat="33.62030150" lon="-85.65652666">
+<trkpt lat="33.62038228" lon="-85.65646765">
 <ele>315.118</ele>
 </trkpt>
 <trkpt lat="33.62038228" lon="-85.65634427">
