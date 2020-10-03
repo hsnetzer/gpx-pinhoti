@@ -3,7 +3,9 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:52:13.377Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:52.380Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="33.93857316" lon="-85.50302621">
+</active_point>
 </extensions>
 </metadata>
 <wpt lat="33.48543479" lon="-85.80860490">
@@ -228,9 +230,11 @@
 <ele>569.600</ele>
 <time>2018-04-12T22:05:08.055Z</time>
 <name>AugustaMineRidge</name>
+<cmt>{ "notOn": "PINHOTI" }</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:52.380Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AugustaMineRidge</label_text>
 </label>
@@ -1133,7 +1137,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:52:13.377Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:39.245Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti Trail</label_text>
 </label>
