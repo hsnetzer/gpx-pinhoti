@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="34.38768027" minlon="-85.36412241" maxlat="34.74052315" maxlon="-85.01581972"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-04-15T16:18:53.755Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:38.473Z</time>
 </extensions>
 </metadata>
 <wpt lat="34.47582939" lon="-85.29292744">
@@ -209,10 +209,10 @@
 </wpt>
 <trk>
 <name>GA-HPS</name>
-<desc>good,sw</desc>
+<desc>good,ne</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-04-15T16:18:53.755Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:38.473Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>High Point Spur</label_text>
@@ -225,140 +225,140 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.39457725" lon="-85.35390353">
-<ele>411.000</ele>
-</trkpt>
-<trkpt lat="34.39441717" lon="-85.35393572">
-<ele>412.000</ele>
-</trkpt>
-<trkpt lat="34.39425263" lon="-85.35398400">
-<ele>412.000</ele>
-</trkpt>
-<trkpt lat="34.39416369" lon="-85.35402155">
-<ele>412.000</ele>
-</trkpt>
-<trkpt lat="34.39407920" lon="-85.35405373">
-<ele>421.000</ele>
-</trkpt>
-<trkpt lat="34.39393246" lon="-85.35411274">
-<ele>421.000</ele>
-</trkpt>
-<trkpt lat="34.39379460" lon="-85.35419857">
-<ele>425.000</ele>
-</trkpt>
-<trkpt lat="34.39372345" lon="-85.35426295">
-<ele>425.000</ele>
-</trkpt>
-<trkpt lat="34.39359449" lon="-85.35438096">
-<ele>423.000</ele>
-</trkpt>
-<trkpt lat="34.39352334" lon="-85.35445070">
-<ele>423.000</ele>
-</trkpt>
-<trkpt lat="34.39340327" lon="-85.35457408">
-<ele>423.000</ele>
-</trkpt>
-<trkpt lat="34.39326987" lon="-85.35468137">
-<ele>425.000</ele>
-</trkpt>
-<trkpt lat="34.39318538" lon="-85.35474038">
-<ele>425.000</ele>
-</trkpt>
-<trkpt lat="34.39304752" lon="-85.35480475">
-<ele>429.000</ele>
-</trkpt>
-<trkpt lat="34.39295858" lon="-85.35482084">
-<ele>429.000</ele>
-</trkpt>
-<trkpt lat="34.39279404" lon="-85.35484767">
-<ele>429.000</ele>
-</trkpt>
-<trkpt lat="34.39270511" lon="-85.35487449">
-<ele>436.000</ele>
-</trkpt>
-<trkpt lat="34.39262506" lon="-85.35491204">
-<ele>436.000</ele>
-</trkpt>
-<trkpt lat="34.39247831" lon="-85.35503006">
-<ele>440.000</ele>
-</trkpt>
-<trkpt lat="34.39235380" lon="-85.35513735">
-<ele>445.000</ele>
-</trkpt>
-<trkpt lat="34.39228264" lon="-85.35520172">
-<ele>445.000</ele>
-</trkpt>
-<trkpt lat="34.39215813" lon="-85.35531974">
-<ele>447.000</ele>
-</trkpt>
-<trkpt lat="34.39203361" lon="-85.35545385">
-<ele>447.000</ele>
-</trkpt>
-<trkpt lat="34.39189131" lon="-85.35558259">
-<ele>448.000</ele>
-</trkpt>
-<trkpt lat="34.39181126" lon="-85.35563624">
-<ele>448.000</ele>
-</trkpt>
-<trkpt lat="34.39166451" lon="-85.35571670">
-<ele>448.000</ele>
-</trkpt>
-<trkpt lat="34.39157557" lon="-85.35575962">
-<ele>448.000</ele>
-</trkpt>
-<trkpt lat="34.39143327" lon="-85.35583472">
-<ele>448.000</ele>
-</trkpt>
-<trkpt lat="34.39135322" lon="-85.35587764">
-<ele>450.000</ele>
-</trkpt>
-<trkpt lat="34.39126873" lon="-85.35591519">
-<ele>451.000</ele>
-</trkpt>
-<trkpt lat="34.39117979" lon="-85.35594201">
-<ele>451.000</ele>
-</trkpt>
-<trkpt lat="34.39109085" lon="-85.35598492">
+<trkpt lat="34.38994350" lon="-85.35649991">
 <ele>456.000</ele>
 </trkpt>
-<trkpt lat="34.39093965" lon="-85.35603857">
+<trkpt lat="34.39001910" lon="-85.35645699">
 <ele>456.000</ele>
 </trkpt>
-<trkpt lat="34.39079289" lon="-85.35609221">
-<ele>460.000</ele>
+<trkpt lat="34.39016141" lon="-85.35636580">
+<ele>464.000</ele>
 </trkpt>
-<trkpt lat="34.39064614" lon="-85.35612976">
-<ele>460.000</ele>
-</trkpt>
-<trkpt lat="34.39055720" lon="-85.35616731">
-<ele>461.000</ele>
-</trkpt>
-<trkpt lat="34.39041045" lon="-85.35622096">
+<trkpt lat="34.39024590" lon="-85.35630679">
 <ele>466.000</ele>
 </trkpt>
 <trkpt lat="34.39033040" lon="-85.35626387">
 <ele>466.000</ele>
 </trkpt>
-<trkpt lat="34.39024590" lon="-85.35630679">
+<trkpt lat="34.39041045" lon="-85.35622096">
 <ele>466.000</ele>
 </trkpt>
-<trkpt lat="34.39016141" lon="-85.35636580">
-<ele>464.000</ele>
+<trkpt lat="34.39055720" lon="-85.35616731">
+<ele>461.000</ele>
 </trkpt>
-<trkpt lat="34.39001910" lon="-85.35645699">
+<trkpt lat="34.39064614" lon="-85.35612976">
+<ele>460.000</ele>
+</trkpt>
+<trkpt lat="34.39079289" lon="-85.35609221">
+<ele>460.000</ele>
+</trkpt>
+<trkpt lat="34.39093965" lon="-85.35603857">
 <ele>456.000</ele>
 </trkpt>
-<trkpt lat="34.38994350" lon="-85.35649991">
+<trkpt lat="34.39109085" lon="-85.35598492">
 <ele>456.000</ele>
+</trkpt>
+<trkpt lat="34.39117979" lon="-85.35594201">
+<ele>451.000</ele>
+</trkpt>
+<trkpt lat="34.39126873" lon="-85.35591519">
+<ele>451.000</ele>
+</trkpt>
+<trkpt lat="34.39135322" lon="-85.35587764">
+<ele>450.000</ele>
+</trkpt>
+<trkpt lat="34.39143327" lon="-85.35583472">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="34.39157557" lon="-85.35575962">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="34.39166451" lon="-85.35571670">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="34.39181126" lon="-85.35563624">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="34.39189131" lon="-85.35558259">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="34.39203361" lon="-85.35545385">
+<ele>447.000</ele>
+</trkpt>
+<trkpt lat="34.39215813" lon="-85.35531974">
+<ele>447.000</ele>
+</trkpt>
+<trkpt lat="34.39228264" lon="-85.35520172">
+<ele>445.000</ele>
+</trkpt>
+<trkpt lat="34.39235380" lon="-85.35513735">
+<ele>445.000</ele>
+</trkpt>
+<trkpt lat="34.39247831" lon="-85.35503006">
+<ele>440.000</ele>
+</trkpt>
+<trkpt lat="34.39262506" lon="-85.35491204">
+<ele>436.000</ele>
+</trkpt>
+<trkpt lat="34.39270511" lon="-85.35487449">
+<ele>436.000</ele>
+</trkpt>
+<trkpt lat="34.39279404" lon="-85.35484767">
+<ele>429.000</ele>
+</trkpt>
+<trkpt lat="34.39295858" lon="-85.35482084">
+<ele>429.000</ele>
+</trkpt>
+<trkpt lat="34.39304752" lon="-85.35480475">
+<ele>429.000</ele>
+</trkpt>
+<trkpt lat="34.39318538" lon="-85.35474038">
+<ele>425.000</ele>
+</trkpt>
+<trkpt lat="34.39326987" lon="-85.35468137">
+<ele>425.000</ele>
+</trkpt>
+<trkpt lat="34.39340327" lon="-85.35457408">
+<ele>423.000</ele>
+</trkpt>
+<trkpt lat="34.39352334" lon="-85.35445070">
+<ele>423.000</ele>
+</trkpt>
+<trkpt lat="34.39359449" lon="-85.35438096">
+<ele>423.000</ele>
+</trkpt>
+<trkpt lat="34.39372345" lon="-85.35426295">
+<ele>425.000</ele>
+</trkpt>
+<trkpt lat="34.39379460" lon="-85.35419857">
+<ele>425.000</ele>
+</trkpt>
+<trkpt lat="34.39393246" lon="-85.35411274">
+<ele>421.000</ele>
+</trkpt>
+<trkpt lat="34.39407920" lon="-85.35405373">
+<ele>421.000</ele>
+</trkpt>
+<trkpt lat="34.39416369" lon="-85.35402155">
+<ele>412.000</ele>
+</trkpt>
+<trkpt lat="34.39425263" lon="-85.35398400">
+<ele>412.000</ele>
+</trkpt>
+<trkpt lat="34.39441717" lon="-85.35393572">
+<ele>412.000</ele>
+</trkpt>
+<trkpt lat="34.39457725" lon="-85.35390353">
+<ele>411.000</ele>
 </trkpt>
 </trkseg>
 </trk>
 <trk>
 <name>PINHOTI</name>
-<desc>good,s</desc>
+<desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T16:08:17.090Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:23.731Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti Trail</label_text>
 </label>

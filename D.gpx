@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:52.380Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:18:42.282Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="33.93857316" lon="-85.50302621">
 </active_point>
 </extensions>
@@ -986,10 +986,10 @@
 </wpt>
 <trk>
 <name>MCDILL</name>
-<desc>good,s</desc>
+<desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:30:49.191Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:18:42.282Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>McDill Lookout Spur</label_text>
@@ -1002,83 +1002,83 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="33.45101602" lon="-85.82163719">
-<ele>634.000</ele>
-</trkpt>
-<trkpt lat="33.45087661" lon="-85.82167474">
-<ele>632.000</ele>
-</trkpt>
-<trkpt lat="33.45075970" lon="-85.82176593">
-<ele>628.000</ele>
-</trkpt>
-<trkpt lat="33.45067875" lon="-85.82181958">
-<ele>628.000</ele>
-</trkpt>
-<trkpt lat="33.45054834" lon="-85.82191614">
-<ele>624.000</ele>
-</trkpt>
-<trkpt lat="33.45038646" lon="-85.82201806">
-<ele>622.000</ele>
-</trkpt>
-<trkpt lat="33.45023356" lon="-85.82207170">
-<ele>620.000</ele>
-</trkpt>
-<trkpt lat="33.45011664" lon="-85.82208243">
-<ele>620.000</ele>
-</trkpt>
-<trkpt lat="33.44995026" lon="-85.82213608">
-<ele>620.000</ele>
-</trkpt>
-<trkpt lat="33.44985582" lon="-85.82217899">
-<ele>619.000</ele>
-</trkpt>
-<trkpt lat="33.44975689" lon="-85.82232920">
-<ele>618.000</ele>
-</trkpt>
-<trkpt lat="33.44963997" lon="-85.82247404">
-<ele>616.000</ele>
-</trkpt>
-<trkpt lat="33.44952755" lon="-85.82259742">
-<ele>616.000</ele>
-</trkpt>
-<trkpt lat="33.44937016" lon="-85.82270471">
-<ele>618.000</ele>
-</trkpt>
-<trkpt lat="33.44925773" lon="-85.82270471">
-<ele>618.000</ele>
-</trkpt>
-<trkpt lat="33.44909584" lon="-85.82276908">
-<ele>614.000</ele>
-</trkpt>
-<trkpt lat="33.44901040" lon="-85.82281736">
-<ele>614.000</ele>
-</trkpt>
-<trkpt lat="33.44891597" lon="-85.82286027">
-<ele>614.000</ele>
-</trkpt>
-<trkpt lat="33.44883502" lon="-85.82293001">
-<ele>613.000</ele>
-</trkpt>
-<trkpt lat="33.44875408" lon="-85.82298365">
-<ele>613.000</ele>
-</trkpt>
-<trkpt lat="33.44861917" lon="-85.82311240">
-<ele>604.000</ele>
-</trkpt>
-<trkpt lat="33.44847976" lon="-85.82320360">
-<ele>604.000</ele>
-</trkpt>
-<trkpt lat="33.44838532" lon="-85.82320896">
-<ele>604.000</ele>
-</trkpt>
-<trkpt lat="33.44821894" lon="-85.82321969">
+<trkpt lat="33.44807503" lon="-85.82320628">
 <ele>587.000</ele>
 </trkpt>
 <trkpt lat="33.44813574" lon="-85.82323310">
 <ele>587.000</ele>
 </trkpt>
-<trkpt lat="33.44807503" lon="-85.82320628">
+<trkpt lat="33.44821894" lon="-85.82321969">
 <ele>587.000</ele>
+</trkpt>
+<trkpt lat="33.44838532" lon="-85.82320896">
+<ele>604.000</ele>
+</trkpt>
+<trkpt lat="33.44847976" lon="-85.82320360">
+<ele>604.000</ele>
+</trkpt>
+<trkpt lat="33.44861917" lon="-85.82311240">
+<ele>604.000</ele>
+</trkpt>
+<trkpt lat="33.44875408" lon="-85.82298365">
+<ele>613.000</ele>
+</trkpt>
+<trkpt lat="33.44883502" lon="-85.82293001">
+<ele>613.000</ele>
+</trkpt>
+<trkpt lat="33.44891597" lon="-85.82286027">
+<ele>614.000</ele>
+</trkpt>
+<trkpt lat="33.44901040" lon="-85.82281736">
+<ele>614.000</ele>
+</trkpt>
+<trkpt lat="33.44909584" lon="-85.82276908">
+<ele>614.000</ele>
+</trkpt>
+<trkpt lat="33.44925773" lon="-85.82270471">
+<ele>618.000</ele>
+</trkpt>
+<trkpt lat="33.44937016" lon="-85.82270471">
+<ele>618.000</ele>
+</trkpt>
+<trkpt lat="33.44952755" lon="-85.82259742">
+<ele>616.000</ele>
+</trkpt>
+<trkpt lat="33.44963997" lon="-85.82247404">
+<ele>616.000</ele>
+</trkpt>
+<trkpt lat="33.44975689" lon="-85.82232920">
+<ele>618.000</ele>
+</trkpt>
+<trkpt lat="33.44985582" lon="-85.82217899">
+<ele>619.000</ele>
+</trkpt>
+<trkpt lat="33.44995026" lon="-85.82213608">
+<ele>620.000</ele>
+</trkpt>
+<trkpt lat="33.45011664" lon="-85.82208243">
+<ele>620.000</ele>
+</trkpt>
+<trkpt lat="33.45023356" lon="-85.82207170">
+<ele>620.000</ele>
+</trkpt>
+<trkpt lat="33.45038646" lon="-85.82201806">
+<ele>622.000</ele>
+</trkpt>
+<trkpt lat="33.45054834" lon="-85.82191614">
+<ele>624.000</ele>
+</trkpt>
+<trkpt lat="33.45067875" lon="-85.82181958">
+<ele>628.000</ele>
+</trkpt>
+<trkpt lat="33.45075970" lon="-85.82176593">
+<ele>628.000</ele>
+</trkpt>
+<trkpt lat="33.45087661" lon="-85.82167474">
+<ele>632.000</ele>
+</trkpt>
+<trkpt lat="33.45101602" lon="-85.82163719">
+<ele>634.000</ele>
 </trkpt>
 </trkseg>
 </trk>
@@ -1137,7 +1137,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:39.245Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:39.244Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Pinhoti Trail</label_text>
 </label>
