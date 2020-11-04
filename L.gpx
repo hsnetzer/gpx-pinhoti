@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
+<desc>GA: Peeples Lake Road to the BMT</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-pinhoti/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="34.74649914" minlon="-84.67494891" maxlat="34.89290700" maxlon="-84.52734932"/>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:20:18.497Z</time>
@@ -15,7 +20,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:39.728Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MountaintownCrTr</label_text>
 </label>
 </extensions>
@@ -27,7 +32,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:39.728Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TripleHillRoad</label_text>
 </label>
 </extensions>
@@ -41,7 +46,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:06:36.422Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTPinhotiTrail</label_text>
 </label>
 </extensions>
@@ -52,7 +57,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SForkJacksRiver</label_text>
 </label>
 </extensions>
@@ -64,7 +69,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:20:22.096Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BuddyCoveGap</label_text>
 </label>
 </extensions>
@@ -76,7 +81,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:21:36.556Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CrenshawBranch843</label_text>
 </label>
 </extensions>
@@ -86,7 +91,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RichKnobBr</label_text>
 </label>
 </extensions>
@@ -96,7 +101,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HeddyCreek</label_text>
 </label>
 </extensions>
@@ -106,7 +111,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleBearCreek</label_text>
 </label>
 </extensions>
@@ -118,7 +123,7 @@
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-18T22:24:48.926Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ConasaugaCreek</label_text>
 </label>
 </extensions>
@@ -130,7 +135,7 @@
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:20:18.497Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Mountaintown Creek Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -524,7 +529,7 @@
 <type>Line</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:20:05.914Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">

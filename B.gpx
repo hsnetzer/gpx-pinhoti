@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
+<desc>AL: County Road 56 to US 231</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-pinhoti/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="33.01506005" minlon="-86.32615409" maxlat="33.07924347" maxlon="-86.24503996"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:30:21.360Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:30:21.359Z</time>
 </extensions>
 </metadata>
 <wpt lat="33.01936956" lon="-86.31166528">
@@ -15,7 +20,7 @@
 <type>Post Office</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-06T02:00:32.697Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Weogufka</label_text>
 </label>
 </extensions>
@@ -25,7 +30,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US231</label_text>
 </label>
 </extensions>
@@ -35,8 +40,8 @@
 <desc>road,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:30:21.360Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:30:21.359Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">

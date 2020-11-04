@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
+<desc>GA: GA 100 to Dug Gap Mountain Road</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-pinhoti/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="34.38768027" minlon="-85.36412241" maxlat="34.74052315" maxlon="-85.01581972"/>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:38.473Z</time>
@@ -14,7 +19,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:15.236Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US27</label_text>
 </label>
 </extensions>
@@ -26,7 +31,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~MarbleMine</label_text>
 </label>
 </extensions>
@@ -38,7 +43,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~KeownFalls~S</label_text>
 </label>
 </extensions>
@@ -50,7 +55,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~KeownFalls~N</label_text>
 </label>
 </extensions>
@@ -62,7 +67,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~Johns~N</label_text>
 </label>
 </extensions>
@@ -74,7 +79,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~JohnsMtn~S</label_text>
 </label>
 </extensions>
@@ -87,7 +92,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~JenkinsGap</label_text>
 </label>
 </extensions>
@@ -99,7 +104,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~HorseAlt~N</label_text>
 </label>
 </extensions>
@@ -112,7 +117,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:15.236Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~FS26</label_text>
 </label>
 </extensions>
@@ -125,7 +130,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:15.236Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~FS208</label_text>
 </label>
 </extensions>
@@ -139,7 +144,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:19.464Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JenkinsGap</label_text>
 </label>
 </extensions>
@@ -151,7 +156,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HighPointSpurGA</label_text>
 </label>
 </extensions>
@@ -164,7 +169,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:21:30.408Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HighPointGA</label_text>
 </label>
 </extensions>
@@ -177,7 +182,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:15.236Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GA136</label_text>
 </label>
 </extensions>
@@ -189,7 +194,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DugMtn</label_text>
 </label>
 </extensions>
@@ -202,7 +207,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T20:00:15.236Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DugGapMtnRd</label_text>
 </label>
 </extensions>
@@ -214,7 +219,7 @@
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:38.473Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>High Point Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -359,7 +364,7 @@
 <type>Line</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:19:23.731Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">

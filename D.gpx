@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
-<bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04804379" maxlon="-85.38071077"/>
+<desc>AL: Trammel Motorway to Georgia Border</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-pinhoti/blob/master/LICENSE</license>
+</copyright>
+<bounds minlat="33.13759552" minlon="-86.19845778" maxlat="34.04098155" maxlon="-85.41366952"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:18:42.282Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T15:46:24.124Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="33.93857316" lon="-85.50302621">
 </active_point>
 </extensions>
@@ -15,7 +20,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CheahaMtn</label_text>
 </label>
 </extensions>
@@ -27,7 +32,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HernandezPeak</label_text>
 </label>
 </extensions>
@@ -39,7 +44,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OdumPoint</label_text>
 </label>
 </extensions>
@@ -51,7 +56,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldRock</label_text>
 </label>
 </extensions>
@@ -63,7 +68,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleCaneyHead</label_text>
 </label>
 </extensions>
@@ -75,7 +80,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigCaneyHead</label_text>
 </label>
 </extensions>
@@ -87,7 +92,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ParkerHighPoint</label_text>
 </label>
 </extensions>
@@ -99,7 +104,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NubbinCreek~Odum</label_text>
 </label>
 </extensions>
@@ -111,7 +116,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McDillPoint</label_text>
 </label>
 </extensions>
@@ -123,7 +128,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DuggerMtn</label_text>
 </label>
 </extensions>
@@ -135,7 +140,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McDillSpur</label_text>
 </label>
 </extensions>
@@ -147,7 +152,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OdumTrail</label_text>
 </label>
 </extensions>
@@ -160,7 +165,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TalladegaScenicDr</label_text>
 </label>
 </extensions>
@@ -172,7 +177,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FlagpoleMtn</label_text>
 </label>
 </extensions>
@@ -185,7 +190,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:37.969Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BlueMtnAL</label_text>
 </label>
 </extensions>
@@ -197,7 +202,7 @@
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McDillLookout</label_text>
 </label>
 </extensions>
@@ -209,7 +214,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OakeyMtn</label_text>
 </label>
 </extensions>
@@ -221,7 +226,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HornMtn</label_text>
 </label>
 </extensions>
@@ -235,7 +240,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:52.380Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AugustaMineRidge</label_text>
 </label>
 </extensions>
@@ -247,7 +252,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurgessPoint</label_text>
 </label>
 </extensions>
@@ -260,7 +265,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd6000-1~2</label_text>
 </label>
 </extensions>
@@ -272,7 +277,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OakHill</label_text>
 </label>
 </extensions>
@@ -286,7 +291,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd600-2~4</label_text>
 </label>
 </extensions>
@@ -299,7 +304,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:55.823Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ThePinnacleAL</label_text>
 </label>
 </extensions>
@@ -312,7 +317,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd6000-1</label_text>
 </label>
 </extensions>
@@ -324,7 +329,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:35:41.497Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd307</label_text>
 </label>
 </extensions>
@@ -336,7 +341,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:36:18.828Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd307~2</label_text>
 </label>
 </extensions>
@@ -349,7 +354,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd600-2~3</label_text>
 </label>
 </extensions>
@@ -362,7 +367,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T17:20:18.783Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RedMtnAL</label_text>
 </label>
 </extensions>
@@ -375,7 +380,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd600-2~2</label_text>
 </label>
 </extensions>
@@ -388,7 +393,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LanieGap</label_text>
 </label>
 </extensions>
@@ -400,7 +405,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BerryMtn</label_text>
 </label>
 </extensions>
@@ -413,7 +418,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TalladegaScenicHwy</label_text>
 </label>
 </extensions>
@@ -425,7 +430,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PineMtn</label_text>
 </label>
 </extensions>
@@ -438,7 +443,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd600-2</label_text>
 </label>
 </extensions>
@@ -452,7 +457,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GuntersTnRd</label_text>
 </label>
 </extensions>
@@ -465,7 +470,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd540</label_text>
 </label>
 </extensions>
@@ -478,7 +483,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd531</label_text>
 </label>
 </extensions>
@@ -491,7 +496,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CheahaRd</label_text>
 </label>
 </extensions>
@@ -504,7 +509,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:48.076Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WhiteGap</label_text>
 </label>
 </extensions>
@@ -517,7 +522,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd523</label_text>
 </label>
 </extensions>
@@ -530,7 +535,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd61</label_text>
 </label>
 </extensions>
@@ -543,7 +548,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:38:25.188Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd500~3</label_text>
 </label>
 </extensions>
@@ -556,7 +561,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:51:37.387Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd553D</label_text>
 </label>
 </extensions>
@@ -569,7 +574,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AL184</label_text>
 </label>
 </extensions>
@@ -582,7 +587,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd70</label_text>
 </label>
 </extensions>
@@ -595,7 +600,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:38:54.104Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ChandlerGap</label_text>
 </label>
 </extensions>
@@ -608,20 +613,8 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AL281~3</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.04655963" lon="-85.40467765">
-<ele>325.300</ele>
-<time>2018-04-12T22:07:53.917Z</time>
-<name>SpringCreek</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SpringCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -633,7 +626,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AL281~N</label_text>
 </label>
 </extensions>
@@ -646,7 +639,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd500~2</label_text>
 </label>
 </extensions>
@@ -659,7 +652,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AL281~S</label_text>
 </label>
 </extensions>
@@ -672,7 +665,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AL281~4</label_text>
 </label>
 </extensions>
@@ -684,7 +677,7 @@
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>I-20</label_text>
 </label>
 </extensions>
@@ -696,7 +689,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HawkinsHollow</label_text>
 </label>
 </extensions>
@@ -710,7 +703,7 @@
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AshlandParking</label_text>
 </label>
 </extensions>
@@ -723,7 +716,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkywayMotorway</label_text>
 </label>
 </extensions>
@@ -737,7 +730,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd500</label_text>
 </label>
 </extensions>
@@ -750,7 +743,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylineDr</label_text>
 </label>
 </extensions>
@@ -762,7 +755,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LanieHollow</label_text>
 </label>
 </extensions>
@@ -775,7 +768,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylineDr2</label_text>
 </label>
 </extensions>
@@ -787,7 +780,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RabbitParkingSpur</label_text>
 </label>
 </extensions>
@@ -800,7 +793,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd531~2</label_text>
 </label>
 </extensions>
@@ -813,7 +806,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US431</label_text>
 </label>
 </extensions>
@@ -826,7 +819,7 @@
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T15:13:28.858Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RabbittownParking</label_text>
 </label>
 </extensions>
@@ -839,7 +832,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RabbittownRd</label_text>
 </label>
 </extensions>
@@ -852,7 +845,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd500~4</label_text>
 </label>
 </extensions>
@@ -865,7 +858,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>UnionT</label_text>
 </label>
 </extensions>
@@ -878,7 +871,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US278</label_text>
 </label>
 </extensions>
@@ -891,22 +884,8 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CherokeeCounty8</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.04781888" lon="-85.38071077">
-<ele>254.900</ele>
-<time>2018-04-12T22:08:31.896Z</time>
-<name>OldJacksonChapelRdS</name>
-<desc>Begin roadwalk.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OldJacksonChapelRdS</label_text>
 </label>
 </extensions>
 </wpt>
@@ -918,7 +897,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd94</label_text>
 </label>
 </extensions>
@@ -930,7 +909,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~Ladiga~N</label_text>
 </label>
 </extensions>
@@ -942,7 +921,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HillabeeCrS</label_text>
 </label>
 </extensions>
@@ -954,7 +933,7 @@
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti~Ladiga~S</label_text>
 </label>
 </extensions>
@@ -967,7 +946,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:59:43.287Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CountyRd24</label_text>
 </label>
 </extensions>
@@ -979,8 +958,18 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DryCreek</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.04098057" lon="-85.41414743">
+<time>2020-11-04T15:45:55.046Z</time>
+<sym>Stadium</sym>
+<type>Sign</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GA-AL</label_text>
 </label>
 </extensions>
 </wpt>
@@ -991,7 +980,7 @@
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:18:42.282Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McDill Lookout Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1089,7 +1078,7 @@
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T15:31:06.366Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Rabbittown Parking Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1137,8 +1126,8 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:34:39.244Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T15:46:11.273Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Pinhoti Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43919,690 +43908,6 @@
 </trkpt>
 <trkpt lat="34.04098155" lon="-85.41414159">
 <ele>490.631</ele>
-</trkpt>
-<trkpt lat="34.04108873" lon="-85.41391628">
-<ele>485.273</ele>
-</trkpt>
-<trkpt lat="34.04122716" lon="-85.41371780">
-<ele>482.705</ele>
-</trkpt>
-<trkpt lat="34.04143299" lon="-85.41351696">
-<ele>477.386</ele>
-</trkpt>
-<trkpt lat="34.04160004" lon="-85.41328303">
-<ele>472.522</ele>
-</trkpt>
-<trkpt lat="34.04171697" lon="-85.41321698">
-<ele>469.975</ele>
-</trkpt>
-<trkpt lat="34.04190003" lon="-85.41301698">
-<ele>464.034</ele>
-</trkpt>
-<trkpt lat="34.04204998" lon="-85.41285002">
-<ele>460.568</ele>
-</trkpt>
-<trkpt lat="34.04220002" lon="-85.41273301">
-<ele>455.904</ele>
-</trkpt>
-<trkpt lat="34.04240001" lon="-85.41258297">
-<ele>451.174</ele>
-</trkpt>
-<trkpt lat="34.04258299" lon="-85.41239999">
-<ele>449.461</ele>
-</trkpt>
-<trkpt lat="34.04281701" lon="-85.41213303">
-<ele>445.714</ele>
-</trkpt>
-<trkpt lat="34.04299999" lon="-85.41194997">
-<ele>443.380</ele>
-</trkpt>
-<trkpt lat="34.04321699" lon="-85.41180002">
-<ele>443.068</ele>
-</trkpt>
-<trkpt lat="34.04345001" lon="-85.41171703">
-<ele>437.634</ele>
-</trkpt>
-<trkpt lat="34.04355001" lon="-85.41158301">
-<ele>438.000</ele>
-</trkpt>
-<trkpt lat="34.04375000" lon="-85.41128302">
-<ele>436.341</ele>
-</trkpt>
-<trkpt lat="34.04383298" lon="-85.41111697">
-<ele>435.943</ele>
-</trkpt>
-<trkpt lat="34.04386701" lon="-85.41091698">
-<ele>436.062</ele>
-</trkpt>
-<trkpt lat="34.04390004" lon="-85.41069997">
-<ele>433.363</ele>
-</trkpt>
-<trkpt lat="34.04401696" lon="-85.41036696">
-<ele>427.879</ele>
-</trkpt>
-<trkpt lat="34.04413297" lon="-85.41028298">
-<ele>425.018</ele>
-</trkpt>
-<trkpt lat="34.04421704" lon="-85.41013302">
-<ele>422.993</ele>
-</trkpt>
-<trkpt lat="34.04424998" lon="-85.40998299">
-<ele>420.863</ele>
-</trkpt>
-<trkpt lat="34.04431704" lon="-85.40980001">
-<ele>418.008</ele>
-</trkpt>
-<trkpt lat="34.04436699" lon="-85.40963296">
-<ele>413.955</ele>
-</trkpt>
-<trkpt lat="34.04418301" lon="-85.40963296">
-<ele>410.941</ele>
-</trkpt>
-<trkpt lat="34.04398302" lon="-85.40958300">
-<ele>405.132</ele>
-</trkpt>
-<trkpt lat="34.04385000" lon="-85.40956699">
-<ele>402.410</ele>
-</trkpt>
-<trkpt lat="34.04401696" lon="-85.40938301">
-<ele>399.329</ele>
-</trkpt>
-<trkpt lat="34.04413297" lon="-85.40913298">
-<ele>395.110</ele>
-</trkpt>
-<trkpt lat="34.04423296" lon="-85.40898303">
-<ele>393.182</ele>
-</trkpt>
-<trkpt lat="34.04421704" lon="-85.40878303">
-<ele>387.403</ele>
-</trkpt>
-<trkpt lat="34.04434998" lon="-85.40865001">
-<ele>386.324</ele>
-</trkpt>
-<trkpt lat="34.04448300" lon="-85.40845002">
-<ele>382.654</ele>
-</trkpt>
-<trkpt lat="34.04464996" lon="-85.40831700">
-<ele>382.262</ele>
-</trkpt>
-<trkpt lat="34.04481702" lon="-85.40819999">
-<ele>382.251</ele>
-</trkpt>
-<trkpt lat="34.04495004" lon="-85.40809999">
-<ele>381.994</ele>
-</trkpt>
-<trkpt lat="34.04511700" lon="-85.40791702">
-<ele>379.746</ele>
-</trkpt>
-<trkpt lat="34.04535002" lon="-85.40761703">
-<ele>376.096</ele>
-</trkpt>
-<trkpt lat="34.04535002" lon="-85.40724998">
-<ele>368.171</ele>
-</trkpt>
-<trkpt lat="34.04528297" lon="-85.40706701">
-<ele>364.728</ele>
-</trkpt>
-<trkpt lat="34.04541699" lon="-85.40661698">
-<ele>364.744</ele>
-</trkpt>
-<trkpt lat="34.04549997" lon="-85.40639997">
-<ele>360.484</ele>
-</trkpt>
-<trkpt lat="34.04563299" lon="-85.40623301">
-<ele>357.513</ele>
-</trkpt>
-<trkpt lat="34.04579996" lon="-85.40619998">
-<ele>355.752</ele>
-</trkpt>
-<trkpt lat="34.04608302" lon="-85.40628296">
-<ele>354.556</ele>
-</trkpt>
-<trkpt lat="34.04626700" lon="-85.40625002">
-<ele>350.640</ele>
-</trkpt>
-<trkpt lat="34.04641704" lon="-85.40616704">
-<ele>347.681</ele>
-</trkpt>
-<trkpt lat="34.04628301" lon="-85.40589999">
-<ele>339.386</ele>
-</trkpt>
-<trkpt lat="34.04613297" lon="-85.40571702">
-<ele>336.766</ele>
-</trkpt>
-<trkpt lat="34.04603298" lon="-85.40560001">
-<ele>334.928</ele>
-</trkpt>
-<trkpt lat="34.04610003" lon="-85.40533296">
-<ele>329.035</ele>
-</trkpt>
-<trkpt lat="34.04634998" lon="-85.40511704">
-<ele>327.382</ele>
-</trkpt>
-<trkpt lat="34.04648300" lon="-85.40491696">
-<ele>326.177</ele>
-</trkpt>
-<trkpt lat="34.04653896" lon="-85.40479409">
-<ele>325.517</ele>
-</trkpt>
-<trkpt lat="34.04656129" lon="-85.40461706">
-<ele>325.098</ele>
-</trkpt>
-<trkpt lat="34.04665952" lon="-85.40445613">
-<ele>325.550</ele>
-</trkpt>
-<trkpt lat="34.04678902" lon="-85.40432202">
-<ele>323.289</ele>
-</trkpt>
-<trkpt lat="34.04685600" lon="-85.40413426">
-<ele>324.258</ele>
-</trkpt>
-<trkpt lat="34.04692745" lon="-85.40394115">
-<ele>324.708</ele>
-</trkpt>
-<trkpt lat="34.04704355" lon="-85.40380167">
-<ele>323.118</ele>
-</trkpt>
-<trkpt lat="34.04711946" lon="-85.40363001">
-<ele>322.920</ele>
-</trkpt>
-<trkpt lat="34.04713286" lon="-85.40350663">
-<ele>323.529</ele>
-</trkpt>
-<trkpt lat="34.04716858" lon="-85.40334569">
-<ele>323.769</ele>
-</trkpt>
-<trkpt lat="34.04725789" lon="-85.40323841">
-<ele>322.967</ele>
-</trkpt>
-<trkpt lat="34.04726236" lon="-85.40307747">
-<ele>323.802</ele>
-</trkpt>
-<trkpt lat="34.04722217" lon="-85.40294336">
-<ele>325.056</ele>
-</trkpt>
-<trkpt lat="34.04713732" lon="-85.40277170">
-<ele>326.636</ele>
-</trkpt>
-<trkpt lat="34.04708374" lon="-85.40265368">
-<ele>327.553</ele>
-</trkpt>
-<trkpt lat="34.04704802" lon="-85.40247666">
-<ele>328.834</ele>
-</trkpt>
-<trkpt lat="34.04692745" lon="-85.40232646">
-<ele>332.339</ele>
-</trkpt>
-<trkpt lat="34.04682475" lon="-85.40222453">
-<ele>335.779</ele>
-</trkpt>
-<trkpt lat="34.04673990" lon="-85.40207433">
-<ele>339.215</ele>
-</trkpt>
-<trkpt lat="34.04678902" lon="-85.40197240">
-<ele>339.499</ele>
-</trkpt>
-<trkpt lat="34.04688280" lon="-85.40179538">
-<ele>339.807</ele>
-</trkpt>
-<trkpt lat="34.04694085" lon="-85.40160762">
-<ele>341.511</ele>
-</trkpt>
-<trkpt lat="34.04695424" lon="-85.40140914">
-<ele>344.360</ele>
-</trkpt>
-<trkpt lat="34.04691852" lon="-85.40128039">
-<ele>347.472</ele>
-</trkpt>
-<trkpt lat="34.04684261" lon="-85.40113555">
-<ele>351.965</ele>
-</trkpt>
-<trkpt lat="34.04679349" lon="-85.40097462">
-<ele>355.853</ele>
-</trkpt>
-<trkpt lat="34.04682474" lon="-85.40085660">
-<ele>357.094</ele>
-</trkpt>
-<trkpt lat="34.04686047" lon="-85.40074395">
-<ele>357.891</ele>
-</trkpt>
-<trkpt lat="34.04693191" lon="-85.40053474">
-<ele>359.205</ele>
-</trkpt>
-<trkpt lat="34.04698103" lon="-85.40033089">
-<ele>360.972</ele>
-</trkpt>
-<trkpt lat="34.04699443" lon="-85.40021287">
-<ele>362.736</ele>
-</trkpt>
-<trkpt lat="34.04704802" lon="-85.40001439">
-<ele>364.218</ele>
-</trkpt>
-<trkpt lat="34.04706588" lon="-85.39989637">
-<ele>365.473</ele>
-</trkpt>
-<trkpt lat="34.04709267" lon="-85.39973008">
-<ele>366.889</ele>
-</trkpt>
-<trkpt lat="34.04714179" lon="-85.39956378">
-<ele>366.985</ele>
-</trkpt>
-<trkpt lat="34.04716858" lon="-85.39945113">
-<ele>367.107</ele>
-</trkpt>
-<trkpt lat="34.04718198" lon="-85.39927947">
-<ele>368.446</ele>
-</trkpt>
-<trkpt lat="34.04717751" lon="-85.39914536">
-<ele>369.681</ele>
-</trkpt>
-<trkpt lat="34.04713286" lon="-85.39897906">
-<ele>371.968</ele>
-</trkpt>
-<trkpt lat="34.04709713" lon="-85.39882349">
-<ele>372.824</ele>
-</trkpt>
-<trkpt lat="34.04708374" lon="-85.39867865">
-<ele>372.857</ele>
-</trkpt>
-<trkpt lat="34.04707481" lon="-85.39850163">
-<ele>372.496</ele>
-</trkpt>
-<trkpt lat="34.04708374" lon="-85.39837824">
-<ele>372.495</ele>
-</trkpt>
-<trkpt lat="34.04713732" lon="-85.39827632">
-<ele>371.867</ele>
-</trkpt>
-<trkpt lat="34.04726682" lon="-85.39815830">
-<ele>370.944</ele>
-</trkpt>
-<trkpt lat="34.04736952" lon="-85.39805101">
-<ele>370.818</ele>
-</trkpt>
-<trkpt lat="34.04750349" lon="-85.39791154">
-<ele>368.755</ele>
-</trkpt>
-<trkpt lat="34.04752581" lon="-85.39770769">
-<ele>366.025</ele>
-</trkpt>
-<trkpt lat="34.04746776" lon="-85.39754676">
-<ele>366.320</ele>
-</trkpt>
-<trkpt lat="34.04742757" lon="-85.39742338">
-<ele>366.429</ele>
-</trkpt>
-<trkpt lat="34.04741864" lon="-85.39730536">
-<ele>366.042</ele>
-</trkpt>
-<trkpt lat="34.04746330" lon="-85.39708542">
-<ele>364.711</ele>
-</trkpt>
-<trkpt lat="34.04745437" lon="-85.39696204">
-<ele>366.776</ele>
-</trkpt>
-<trkpt lat="34.04737845" lon="-85.39681183">
-<ele>369.057</ele>
-</trkpt>
-<trkpt lat="34.04727129" lon="-85.39666163">
-<ele>366.561</ele>
-</trkpt>
-<trkpt lat="34.04731147" lon="-85.39648460">
-<ele>364.705</ele>
-</trkpt>
-<trkpt lat="34.04738292" lon="-85.39636122">
-<ele>363.452</ele>
-</trkpt>
-<trkpt lat="34.04751242" lon="-85.39620565">
-<ele>363.161</ele>
-</trkpt>
-<trkpt lat="34.04758386" lon="-85.39612519">
-<ele>363.039</ele>
-</trkpt>
-<trkpt lat="34.04769550" lon="-85.39595889">
-<ele>361.783</ele>
-</trkpt>
-<trkpt lat="34.04771336" lon="-85.39583551">
-<ele>359.832</ele>
-</trkpt>
-<trkpt lat="34.04771782" lon="-85.39570676">
-<ele>357.506</ele>
-</trkpt>
-<trkpt lat="34.04771782" lon="-85.39557265">
-<ele>357.544</ele>
-</trkpt>
-<trkpt lat="34.04770443" lon="-85.39545464">
-<ele>357.521</ele>
-</trkpt>
-<trkpt lat="34.04769550" lon="-85.39532053">
-<ele>357.523</ele>
-</trkpt>
-<trkpt lat="34.04766424" lon="-85.39508449">
-<ele>356.809</ele>
-</trkpt>
-<trkpt lat="34.04764638" lon="-85.39493965">
-<ele>355.564</ele>
-</trkpt>
-<trkpt lat="34.04762852" lon="-85.39472507">
-<ele>353.920</ele>
-</trkpt>
-<trkpt lat="34.04760619" lon="-85.39459096">
-<ele>352.575</ele>
-</trkpt>
-<trkpt lat="34.04757940" lon="-85.39446758">
-<ele>351.806</ele>
-</trkpt>
-<trkpt lat="34.04753921" lon="-85.39434420">
-<ele>350.774</ele>
-</trkpt>
-<trkpt lat="34.04745436" lon="-85.39416181">
-<ele>349.257</ele>
-</trkpt>
-<trkpt lat="34.04740971" lon="-85.39405452">
-<ele>348.851</ele>
-</trkpt>
-<trkpt lat="34.04734273" lon="-85.39392041">
-<ele>347.913</ele>
-</trkpt>
-<trkpt lat="34.04727575" lon="-85.39381849">
-<ele>347.623</ele>
-</trkpt>
-<trkpt lat="34.04720877" lon="-85.39372729">
-<ele>347.444</ele>
-</trkpt>
-<trkpt lat="34.04714179" lon="-85.39363073">
-<ele>346.943</ele>
-</trkpt>
-<trkpt lat="34.04703908" lon="-85.39346444">
-<ele>346.658</ele>
-</trkpt>
-<trkpt lat="34.04688279" lon="-85.39335178">
-<ele>344.243</ele>
-</trkpt>
-<trkpt lat="34.04679795" lon="-85.39329278">
-<ele>342.627</ele>
-</trkpt>
-<trkpt lat="34.04672650" lon="-85.39320158">
-<ele>340.938</ele>
-</trkpt>
-<trkpt lat="34.04682474" lon="-85.39306211">
-<ele>335.881</ele>
-</trkpt>
-<trkpt lat="34.04698103" lon="-85.39297091">
-<ele>334.757</ele>
-</trkpt>
-<trkpt lat="34.04712839" lon="-85.39285826">
-<ele>333.290</ele>
-</trkpt>
-<trkpt lat="34.04706141" lon="-85.39269196">
-<ele>330.423</ele>
-</trkpt>
-<trkpt lat="34.04698103" lon="-85.39255249">
-<ele>327.114</ele>
-</trkpt>
-<trkpt lat="34.04690959" lon="-85.39246665">
-<ele>325.481</ele>
-</trkpt>
-<trkpt lat="34.04681581" lon="-85.39232718">
-<ele>324.044</ele>
-</trkpt>
-<trkpt lat="34.04676669" lon="-85.39216088">
-<ele>321.969</ele>
-</trkpt>
-<trkpt lat="34.04671757" lon="-85.39203750">
-<ele>320.373</ele>
-</trkpt>
-<trkpt lat="34.04662826" lon="-85.39186048">
-<ele>318.395</ele>
-</trkpt>
-<trkpt lat="34.04651216" lon="-85.39167809">
-<ele>315.718</ele>
-</trkpt>
-<trkpt lat="34.04648537" lon="-85.39155470">
-<ele>313.391</ele>
-</trkpt>
-<trkpt lat="34.04661933" lon="-85.39151179">
-<ele>313.134</ele>
-</trkpt>
-<trkpt lat="34.04673097" lon="-85.39152252">
-<ele>312.896</ele>
-</trkpt>
-<trkpt lat="34.04682921" lon="-85.39154934">
-<ele>312.576</ele>
-</trkpt>
-<trkpt lat="34.04699443" lon="-85.39162981">
-<ele>310.163</ele>
-</trkpt>
-<trkpt lat="34.04711053" lon="-85.39176928">
-<ele>309.350</ele>
-</trkpt>
-<trkpt lat="34.04721770" lon="-85.39192485">
-<ele>309.700</ele>
-</trkpt>
-<trkpt lat="34.04736506" lon="-85.39201068">
-<ele>307.286</ele>
-</trkpt>
-<trkpt lat="34.04740971" lon="-85.39179610">
-<ele>304.155</ele>
-</trkpt>
-<trkpt lat="34.04740525" lon="-85.39166199">
-<ele>301.555</ele>
-</trkpt>
-<trkpt lat="34.04737845" lon="-85.39147960">
-<ele>298.353</ele>
-</trkpt>
-<trkpt lat="34.04733826" lon="-85.39130794">
-<ele>297.922</ele>
-</trkpt>
-<trkpt lat="34.04733826" lon="-85.39112019">
-<ele>296.531</ele>
-</trkpt>
-<trkpt lat="34.04744990" lon="-85.39098071">
-<ele>294.244</ele>
-</trkpt>
-<trkpt lat="34.04756153" lon="-85.39093780">
-<ele>292.837</ele>
-</trkpt>
-<trkpt lat="34.04770442" lon="-85.39086806">
-<ele>292.955</ele>
-</trkpt>
-<trkpt lat="34.04782052" lon="-85.39073395">
-<ele>292.601</ele>
-</trkpt>
-<trkpt lat="34.04791430" lon="-85.39055156">
-<ele>290.594</ele>
-</trkpt>
-<trkpt lat="34.04792769" lon="-85.39038526">
-<ele>288.648</ele>
-</trkpt>
-<trkpt lat="34.04796342" lon="-85.39020823">
-<ele>287.190</ele>
-</trkpt>
-<trkpt lat="34.04804379" lon="-85.39000975">
-<ele>286.511</ele>
-</trkpt>
-<trkpt lat="34.04800360" lon="-85.38990246">
-<ele>285.562</ele>
-</trkpt>
-<trkpt lat="34.04791876" lon="-85.38978445">
-<ele>285.187</ele>
-</trkpt>
-<trkpt lat="34.04785178" lon="-85.38968252">
-<ele>284.702</ele>
-</trkpt>
-<trkpt lat="34.04780266" lon="-85.38948940">
-<ele>284.595</ele>
-</trkpt>
-<trkpt lat="34.04775354" lon="-85.38928556">
-<ele>284.742</ele>
-</trkpt>
-<trkpt lat="34.04773122" lon="-85.38914608">
-<ele>284.690</ele>
-</trkpt>
-<trkpt lat="34.04775354" lon="-85.38902270">
-<ele>285.887</ele>
-</trkpt>
-<trkpt lat="34.04776694" lon="-85.38885640">
-<ele>286.838</ele>
-</trkpt>
-<trkpt lat="34.04771336" lon="-85.38871156">
-<ele>284.955</ele>
-</trkpt>
-<trkpt lat="34.04763298" lon="-85.38856672">
-<ele>281.614</ele>
-</trkpt>
-<trkpt lat="34.04761065" lon="-85.38840579">
-<ele>280.797</ele>
-</trkpt>
-<trkpt lat="34.04764191" lon="-85.38829314">
-<ele>280.877</ele>
-</trkpt>
-<trkpt lat="34.04772675" lon="-85.38810002">
-<ele>281.327</ele>
-</trkpt>
-<trkpt lat="34.04775354" lon="-85.38798737">
-<ele>280.470</ele>
-</trkpt>
-<trkpt lat="34.04775354" lon="-85.38785326">
-<ele>278.631</ele>
-</trkpt>
-<trkpt lat="34.04771336" lon="-85.38766014">
-<ele>275.242</ele>
-</trkpt>
-<trkpt lat="34.04768210" lon="-85.38753139">
-<ele>274.701</ele>
-</trkpt>
-<trkpt lat="34.04763744" lon="-85.38740264">
-<ele>274.435</ele>
-</trkpt>
-<trkpt lat="34.04757939" lon="-85.38718807">
-<ele>275.435</ele>
-</trkpt>
-<trkpt lat="34.04755260" lon="-85.38704859">
-<ele>276.169</ele>
-</trkpt>
-<trkpt lat="34.04751688" lon="-85.38689302">
-<ele>277.022</ele>
-</trkpt>
-<trkpt lat="34.04744990" lon="-85.38671600">
-<ele>277.996</ele>
-</trkpt>
-<trkpt lat="34.04740524" lon="-85.38659262">
-<ele>278.910</ele>
-</trkpt>
-<trkpt lat="34.04736506" lon="-85.38642632">
-<ele>280.578</ele>
-</trkpt>
-<trkpt lat="34.04734273" lon="-85.38627075">
-<ele>282.459</ele>
-</trkpt>
-<trkpt lat="34.04730254" lon="-85.38616346">
-<ele>283.202</ele>
-</trkpt>
-<trkpt lat="34.04720877" lon="-85.38601326">
-<ele>283.456</ele>
-</trkpt>
-<trkpt lat="34.04712392" lon="-85.38588451">
-<ele>282.850</ele>
-</trkpt>
-<trkpt lat="34.04707034" lon="-85.38569676">
-<ele>282.460</ele>
-</trkpt>
-<trkpt lat="34.04706141" lon="-85.38548218">
-<ele>282.340</ele>
-</trkpt>
-<trkpt lat="34.04708374" lon="-85.38534271">
-<ele>282.508</ele>
-</trkpt>
-<trkpt lat="34.04714625" lon="-85.38518714">
-<ele>282.951</ele>
-</trkpt>
-<trkpt lat="34.04723556" lon="-85.38499402">
-<ele>282.800</ele>
-</trkpt>
-<trkpt lat="34.04729807" lon="-85.38483845">
-<ele>282.351</ele>
-</trkpt>
-<trkpt lat="34.04738292" lon="-85.38465070">
-<ele>282.932</ele>
-</trkpt>
-<trkpt lat="34.04744543" lon="-85.38455950">
-<ele>283.731</ele>
-</trkpt>
-<trkpt lat="34.04747669" lon="-85.38443612">
-<ele>285.040</ele>
-</trkpt>
-<trkpt lat="34.04752581" lon="-85.38423227">
-<ele>286.698</ele>
-</trkpt>
-<trkpt lat="34.04754367" lon="-85.38409816">
-<ele>287.237</ele>
-</trkpt>
-<trkpt lat="34.04753474" lon="-85.38396405">
-<ele>287.118</ele>
-</trkpt>
-<trkpt lat="34.04754814" lon="-85.38376020">
-<ele>286.820</ele>
-</trkpt>
-<trkpt lat="34.04753920" lon="-85.38362609">
-<ele>285.678</ele>
-</trkpt>
-<trkpt lat="34.04756600" lon="-85.38351344">
-<ele>285.293</ele>
-</trkpt>
-<trkpt lat="34.04765530" lon="-85.38336056">
-<ele>284.687</ele>
-</trkpt>
-<trkpt lat="34.04769103" lon="-85.38324522">
-<ele>283.089</ele>
-</trkpt>
-<trkpt lat="34.04768656" lon="-85.38311916">
-<ele>281.266</ele>
-</trkpt>
-<trkpt lat="34.04767540" lon="-85.38292872">
-<ele>278.682</ele>
-</trkpt>
-<trkpt lat="34.04762181" lon="-85.38273024">
-<ele>275.599</ele>
-</trkpt>
-<trkpt lat="34.04757493" lon="-85.38259881">
-<ele>273.234</ele>
-</trkpt>
-<trkpt lat="34.04758386" lon="-85.38237618">
-<ele>270.990</ele>
-</trkpt>
-<trkpt lat="34.04762628" lon="-85.38225280">
-<ele>270.091</ele>
-</trkpt>
-<trkpt lat="34.04766647" lon="-85.38213747">
-<ele>268.914</ele>
-</trkpt>
-<trkpt lat="34.04771559" lon="-85.38194435">
-<ele>266.592</ele>
-</trkpt>
-<trkpt lat="34.04772675" lon="-85.38182901">
-<ele>265.156</ele>
-</trkpt>
-<trkpt lat="34.04775801" lon="-85.38163321">
-<ele>263.097</ele>
-</trkpt>
-<trkpt lat="34.04777810" lon="-85.38144814">
-<ele>260.788</ele>
-</trkpt>
-<trkpt lat="34.04782722" lon="-85.38125770">
-<ele>257.698</ele>
-</trkpt>
-<trkpt lat="34.04787411" lon="-85.38105117">
-<ele>256.147</ele>
-</trkpt>
-<trkpt lat="34.04786071" lon="-85.38092779">
-<ele>255.608</ele>
-</trkpt>
-<trkpt lat="34.04783615" lon="-85.38078563">
-<ele>255.184</ele>
-</trkpt>
-<trkpt lat="34.04781829" lon="-85.38072394">
-<ele>254.992</ele>
 </trkpt>
 </trkseg>
 </trk>
